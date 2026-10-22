@@ -1,0 +1,501 @@
+First Name,Last Name,Company,Title,Email,Phone,Industry,Lead Source,Status,Rating,Annual Revenue,No. of Employees,City,State/Province,Country
+Alexandru,Gheorghe,Mures Data SA,CTO,alexandru.gheorghe@muresdata.example.com,+40 784 293 601,Technology,Other,Working - Contacted,Cold,15730000,239,Budapest,Budapest,Hungary
+Dragos,Mocanu,Prisma Market SRL,Manager Achizitii,dragos.mocanu@prismamarket.example.com,+40 725 798 558,Retail,Partner Referral,Open - Not Contacted,Warm,21640000,268,Timisoara,Timis,Romania
+Ioana,Serban,Argo Capital SA,CTO,ioana.serban@argocapital.example.com,,Finance,Phone Inquiry,Working - Contacted,Warm,3400000,25,Oradea,Bihor,Romania
+Raluca,Tudor,Mondo Academy SA,Manager Achizitii,raluca.tudor@mondoacademy.example.com,+40 772 378 284,Education,Phone Inquiry,Open - Not Contacted,Cold,7180000,150,Iasi,Iasi,Romania
+Laura,Ionescu,Transilvania Trade SA,Manager Marketing,laura.ionescu@transilvaniatrade.example.com,,Retail,Web,Open - Not Contacted,Warm,42840000,448,Bucuresti,Bucuresti,Romania
+Bogdan,Marin,Argo Finance SA,,bogdan.marin@argofinance.example.com,+40 798 899 259,Finance,Partner Referral,Open - Not Contacted,Hot,3100000,16,Cluj-Napoca,Cluj,Romania
+Andrei,Stan,Mures Industries SA,Director Financiar,andrei.stan@muresindustries.example.com,+40 759 103 134,Manufacturing,Other,Closed - Not Converted,Hot,9350000,116,Cluj-Napoca,Cluj,Romania
+Alexandra,Serban,Prut Systems SRL,Director Financiar,alexandra.serban@prutsystems.example.com,+40 778 946 650,Technology,Other,Open - Not Contacted,Cold,3290000,64,Munchen,Bayern,Germany
+Tudor,Radu,Carpat Clinic SA,Manager Marketing,tudor.radu@carpatclinic.example.com,+40 783 132 519,Healthcare,Other,Working - Contacted,Warm,7380000,64,Timisoara,Timis,Romania
+Bogdan,Moldovan,Solaris Finance SA,Director IT,bogdan.moldovan@solarisfinance.example.com,+40 729 663 552,Finance,Web,Open - Not Contacted,Warm,24500000,223,Iasi,Iasi,Romania
+Mihaela,Ionescu,Nova Market SRL,Manager Achizitii,mihaela.ionescu@novamarket.example.com,+40 783 248 849,Retail,Purchased List,Closed - Not Converted,Cold,47940000,560,Cluj-Napoca,Cluj,Romania
+Bogdan,Nistor,Crisana Market SA,,bogdan.nistor@crisanamarket.example.com,+40 768 780 802,Retail,Web,Open - Not Contacted,Cold,3810000,90,Timisoara,Timis,Romania
+Marius,Moldovan,Cerna Power SA,Manager Achizitii,marius.moldovan@cernapower.example.com,,Energy,Web,Working - Contacted,Cold,73100000,685,Cluj-Napoca,Cluj,Romania
+Cristian,Dumitru,Olt Retail SRL,CEO,cristian.dumitru@oltretail.example.com,+40 736 787 623,Retail,Phone Inquiry,Working - Contacted,Warm,173210000,928,Oradea,Bihor,Romania
+Florin,Oprea,Optim Logistic SRL,Manager Achizitii,florin.oprea@optimlogistic.example.com,+40 789 638 245,Transportation,Phone Inquiry,Open - Not Contacted,Warm,535770000,4250,Iasi,Iasi,Romania
+Mihaela,Popa,Vector Trans SRL,Manager Achizitii,mihaela.popa@vectortrans.example.com,+40 780 806 391,Transportation,Partner Referral,Working - Contacted,Hot,72670000,550,Cluj-Napoca,Cluj,Romania
+Roxana,Marin,Prut Industries SRL,Manager Proiect,roxana.marin@prutindustries.example.com,+40 731 475 137,Manufacturing,Phone Inquiry,Closed - Not Converted,Cold,3640000,27,Cluj-Napoca,Cluj,Romania
+Andrei,Nistor,Nova Edu SA,Specialist Achizitii,andrei.nistor@novaedu.example.com,+40 745 452 261,Education,Phone Inquiry,Working - Contacted,Warm,14690000,144,Cluj-Napoca,Cluj,Romania
+Dragos,Neagu,Lumina Prod SA,Manager Marketing,dragos.neagu@luminaprod.example.com,+40 768 316 815,Manufacturing,Purchased List,Closed - Not Converted,Warm,75850000,1226,Ploiesti,Prahova,Romania
+Radu,Iliescu,Maramures Agro SRL,CEO,radu.iliescu@maramuresagro.example.com,+40 738 626 172,Food & Beverage,Phone Inquiry,Working - Contacted,Cold,8950000,129,Galati,Galati,Romania
+Andrei,Iliescu,Argo Data SA,Specialist Achizitii,andrei.iliescu@argodata.example.com,+40 766 600 878,Technology,Web,Open - Not Contacted,Hot,121090000,873,Iasi,Iasi,Romania
+Bogdan,Tudor,Orion Metal SA,CEO,bogdan.tudor@orionmetal.example.com,+40 772 069 986,Manufacturing,Other,Working - Contacted,Cold,1970000,39,Bucuresti,Bucuresti,Romania
+Dragos,Popa,Alfa Systems SA,,dragos.popa@alfasystems.example.com,+40 730 198 293,Technology,Web,Working - Contacted,Warm,1180000,11,Iasi,Iasi,Romania
+Dragos,Preda,Solaris Systems SA,Director IT,dragos.preda@solarissystems.example.com,+40 748 198 905,Technology,Web,Working - Contacted,Warm,50500000,472,Sibiu,Sibiu,Romania
+Stefan,Munteanu,Titan Imob SRL,Manager Achizitii,stefan.munteanu@titanimob.example.com,+40 779 532 924,Construction,Web,Open - Not Contacted,Warm,141530000,802,Timisoara,Timis,Romania
+Adrian,Constantin,Apex Agro SRL,Manager Achizitii,adrian.constantin@apexagro.example.com,,,Phone Inquiry,Open - Not Contacted,Warm,1520000,16,Cluj-Napoca,Cluj,Romania
+Marius,Popa,Oltenia Health SA,CEO,marius.popa@olteniahealth.example.com,+40 760 896 013,Healthcare,Partner Referral,Open - Not Contacted,Hot,77140000,549,Galati,Galati,Romania
+Catalin,Dumitru,Fagaras Industries SRL,Manager Proiect,catalin.dumitru@fagarasindustries.example.com,+40 798 808 265,Manufacturing,Partner Referral,Working - Contacted,Hot,26500000,235,Cluj-Napoca,Cluj,Romania
+Cristina,Rusu,Cerna Plast SA,Director Financiar,cristina.rusu@cernaplast.example.com,+40 776 996 186,Manufacturing,Web,Closed - Not Converted,Warm,1920000,39,Sibiu,Sibiu,Romania
+Florin,Neagu,Nera Prod SA,Director IT,florin.neagu@neraprod.example.com,+40 769 061 286,Manufacturing,Partner Referral,Open - Not Contacted,Hot,383280000,2205,Oradea,Bihor,Romania
+Raluca,Lazar,Somes Metal SRL,Specialist Achizitii,raluca.lazar@somesmetal.example.com,+40 764 698 818,Manufacturing,Other,Working - Contacted,Warm,3400000,21,Munchen,Bayern,Germany
+Radu,Ene,Orion Drinks SRL,Specialist Achizitii,radu.ene@oriondrinks.example.com,+40 744 863 723,Food & Beverage,Purchased List,Working - Contacted,Warm,3320000,19,Timisoara,Timis,Romania
+Camelia,Preda,Maramures Med SRL,Manager HR,camelia.preda@maramuresmed.example.com,+40 763 415 886,Healthcare,Web,Open - Not Contacted,Cold,1380000,23,Craiova,Dolj,Romania
+Elena,Popa,Banat Power SRL,Director IT,elena.popa@banatpower.example.com,+40 739 866 598,Energy,Phone Inquiry,Working - Contacted,Warm,1320000,20,Oradea,Bihor,Romania
+Alexandru,Munteanu,Helios Net SA,Manager HR,alexandru.munteanu@heliosnet.example.com,+40 797 755 621,Telecommunications,Phone Inquiry,Working - Contacted,Warm,32750000,577,Timisoara,Timis,Romania
+Alexandra,Ionescu,Apuseni Power SRL,Specialist Achizitii,alexandra.ionescu@apusenipower.example.com,+40 788 424 376,Energy,Web,Open - Not Contacted,Warm,2110000,15,Bucuresti,Bucuresti,Romania
+Adrian,Nistor,Nova Power SA,Director Vanzari,adrian.nistor@novapower.example.com,,Energy,Other,Open - Not Contacted,Warm,2540000,13,Timisoara,Timis,Romania
+Camelia,Gheorghe,Helios Soft SA,Director Operatiuni,camelia.gheorghe@heliossoft.example.com,+40 777 146 210,Technology,Phone Inquiry,Working - Contacted,Warm,36600000,298,Milano,Lombardia,Italy
+Gabriel,Munteanu,Polaris Capital SA,Director IT,gabriel.munteanu@polariscapital.example.com,+40 783 060 652,Finance,Web,Open - Not Contacted,Cold,1890000,14,Munchen,Bayern,Germany
+Gabriel,Nistor,Nord Retail SRL,Director Financiar,gabriel.nistor@nordretail.example.com,+40 796 970 119,Retail,Web,Working - Contacted,Warm,4060000,39,Oradea,Bihor,Romania
+Daniel,Matei,Orion Data SRL,Director Vanzari,daniel.matei@oriondata.example.com,+40 790 439 493,Technology,Phone Inquiry,Open - Not Contacted,Cold,171250000,1110,Milano,Lombardia,Italy
+Anca,Neagu,Nova Data SA,Director IT,anca.neagu@novadata.example.com,+40 753 974 173,Technology,Phone Inquiry,Open - Not Contacted,Cold,11420000,93,Timisoara,Timis,Romania
+Vlad,Munteanu,Dunarea Data SRL,CTO,vlad.munteanu@dunareadata.example.com,,,Web,Open - Not Contacted,Warm,5930000,96,Timisoara,Timis,Romania
+Andrei,Munteanu,Dacia Metal SRL,Manager Achizitii,andrei.munteanu@daciametal.example.com,+40 732 993 374,Manufacturing,Purchased List,Closed - Not Converted,Cold,1880000,19,Ploiesti,Prahova,Romania
+Camelia,Marin,Nera Med SA,CTO,camelia.marin@neramed.example.com,,Healthcare,Web,Working - Contacted,Warm,5170000,30,Craiova,Dolj,Romania
+Ioana,Nistor,Nord Trade SRL,Specialist Achizitii,ioana.nistor@nordtrade.example.com,+40 749 707 741,Retail,Web,Working - Contacted,Warm,10040000,145,Sibiu,Sibiu,Romania
+Razvan,Vasile,Arges Cloud SA,CTO,razvan.vasile@argescloud.example.com,+40 721 912 966,Technology,Web,Working - Contacted,Warm,12260000,220,Ploiesti,Prahova,Romania
+Ionut,Preda,Prisma Retail SA,Manager Proiect,ionut.preda@prismaretail.example.com,,Retail,Web,Open - Not Contacted,Warm,10580000,82,Cluj-Napoca,Cluj,Romania
+Monica,Constantin,Argo Market SRL,Director Vanzari,monica.constantin@argomarket.example.com,+40 749 064 639,Retail,Purchased List,Working - Contacted,Warm,28560000,257,Bucuresti,Bucuresti,Romania
+Radu,Iliescu,Transilvania Link SA,Manager Proiect,radu.iliescu@transilvanialink.example.com,+40 726 022 665,Telecommunications,Web,Open - Not Contacted,Warm,5370000,27,Cluj-Napoca,Cluj,Romania
+Marius,Ionescu,Moldova Drinks SA,CFO,marius.ionescu@moldovadrinks.example.com,+40 790 923 475,Food & Beverage,Phone Inquiry,Working - Contacted,Cold,65940000,433,Bucuresti,Bucuresti,Romania
+Florin,Iliescu,Titan Gaz SA,Director Financiar,florin.iliescu@titangaz.example.com,+40 762 215 949,Energy,Partner Referral,Working - Contacted,Warm,23690000,170,Bucuresti,Bucuresti,Romania
+Georgiana,Toma,Jiu Invest SRL,Manager Achizitii,georgiana.toma@jiuinvest.example.com,+40 774 443 029,Finance,Other,Working - Contacted,Hot,165510000,923,Timisoara,Timis,Romania
+Camelia,Tudor,Crisana Industries SRL,Director Operatiuni,camelia.tudor@crisanaindustries.example.com,+40 752 483 746,Manufacturing,Web,Working - Contacted,Hot,27250000,639,Munchen,Bayern,Germany
+Bogdan,Oprea,Crisana Credit SA,Director IT,bogdan.oprea@crisanacredit.example.com,,Finance,Web,Open - Not Contacted,Cold,625670000,4489,Bucuresti,Bucuresti,Romania
+Andreea,Mocanu,Arges Med SA,Director Financiar,andreea.mocanu@argesmed.example.com,+40 765 179 932,Healthcare,Partner Referral,Working - Contacted,Warm,5150000,35,Constanta,Constanta,Romania
+Andreea,Stoica,Maramures Digital SA,Director IT,andreea.stoica@maramuresdigital.example.com,,Technology,Web,Open - Not Contacted,Warm,20770000,116,Milano,Lombardia,Italy
+Daniel,Serban,Nova Imob SRL,Director IT,daniel.serban@novaimob.example.com,+40 783 642 245,Construction,Purchased List,Closed - Not Converted,Cold,97370000,1222,Bucuresti,Bucuresti,Romania
+Larisa,Stan,Dacia Solar SA,Manager Proiect,larisa.stan@daciasolar.example.com,+40 770 623 078,Energy,Phone Inquiry,Open - Not Contacted,Warm,3620000,23,Bucuresti,Bucuresti,Romania
+Sorin,Ionescu,Somes Prod SA,CFO,sorin.ionescu@somesprod.example.com,+40 790 803 782,Manufacturing,Phone Inquiry,Open - Not Contacted,Warm,130830000,747,Timisoara,Timis,Romania
+Simona,Oprea,Bistrita Data SRL,Specialist Achizitii,simona.oprea@bistritadata.example.com,+40 730 350 211,Technology,Web,Closed - Not Converted,Warm,1070000,12,Oradea,Bihor,Romania
+Diana,Vasile,Dacia Learning SRL,CTO,diana.vasile@dacialearning.example.com,+40 757 223 642,Education,Phone Inquiry,Open - Not Contacted,Warm,14190000,122,Cluj-Napoca,Cluj,Romania
+Adrian,Neagu,Orion Build SA,CTO,adrian.neagu@orionbuild.example.com,+40 734 833 184,Construction,Phone Inquiry,Open - Not Contacted,Cold,1960000,12,Timisoara,Timis,Romania
+Sorin,Mocanu,Dunarea Prod SA,Manager Proiect,sorin.mocanu@dunareaprod.example.com,,Manufacturing,Partner Referral,Closed - Not Converted,Warm,26390000,190,Budapest,Budapest,Hungary
+Tudor,Lazar,Bistrita Cargo SRL,Director Financiar,tudor.lazar@bistritacargo.example.com,+40 774 889 897,Transportation,Other,Open - Not Contacted,Cold,4730000,49,Iasi,Iasi,Romania
+Sorin,Barbu,Argo Energy SRL,Director Financiar,sorin.barbu@argoenergy.example.com,+40 757 367 504,Energy,Purchased List,Working - Contacted,Cold,14600000,144,Iasi,Iasi,Romania
+Andreea,Ene,Nord Cloud SA,Director IT,andreea.ene@nordcloud.example.com,+40 792 580 537,Technology,Web,Open - Not Contacted,Hot,93980000,599,Cluj-Napoca,Cluj,Romania
+Marius,Popescu,Polaris Academy SRL,CFO,marius.popescu@polarisacademy.example.com,+40 728 431 647,Education,Partner Referral,Open - Not Contacted,Cold,25280000,354,Timisoara,Timis,Romania
+Laura,Radu,Vector Net SRL,Manager Proiect,laura.radu@vectornet.example.com,+40 753 477 708,Telecommunications,Web,Working - Contacted,Warm,1080000,27,Brasov,Brasov,Romania
+Florin,Mocanu,Somes Telecom SA,CTO,florin.mocanu@somestelecom.example.com,+40 748 717 216,Telecommunications,Purchased List,Working - Contacted,Cold,3090000,32,Iasi,Iasi,Romania
+Bogdan,Munteanu,Optim Clinic SA,Specialist Achizitii,bogdan.munteanu@optimclinic.example.com,+40 754 352 494,Healthcare,Phone Inquiry,Working - Contacted,Hot,1060000,13,Bucuresti,Bucuresti,Romania
+Elena,Dinu,Somes Clinic SRL,CEO,elena.dinu@somesclinic.example.com,,Healthcare,Purchased List,Open - Not Contacted,Cold,400430000,3435,Constanta,Constanta,Romania
+Cristian,Cojocaru,Zenit Finance SA,Manager Achizitii,cristian.cojocaru@zenitfinance.example.com,+40 794 967 779,Finance,Partner Referral,Working - Contacted,Hot,5100000,29,Cluj-Napoca,Cluj,Romania
+Larisa,Avram,Prisma Imob SRL,Director Financiar,larisa.avram@prismaimob.example.com,+40 794 751 538,,Partner Referral,Working - Contacted,Hot,22800000,131,Bucuresti,Bucuresti,Romania
+Andrei,Stan,Polaris Trade SRL,Manager Proiect,andrei.stan@polaristrade.example.com,+40 729 648 019,Retail,Web,Open - Not Contacted,Cold,15840000,141,Milano,Lombardia,Italy
+Roxana,Iliescu,Zenit Invest SRL,CFO,roxana.iliescu@zenitinvest.example.com,+40 732 794 889,Finance,Phone Inquiry,Open - Not Contacted,Warm,7350000,108,Bucuresti,Bucuresti,Romania
+Alexandru,Munteanu,Optim Cloud SA,CFO,alexandru.munteanu@optimcloud.example.com,+40 782 139 809,Technology,Phone Inquiry,Closed - Not Converted,Hot,73860000,546,Oradea,Bihor,Romania
+Alexandra,Toma,Maramures Market SA,Manager HR,alexandra.toma@maramuresmarket.example.com,+40 735 264 224,Retail,Partner Referral,Working - Contacted,Hot,17880000,220,Sibiu,Sibiu,Romania
+Tudor,Stan,Mondo Construct SA,Manager HR,tudor.stan@mondoconstruct.example.com,+40 783 568 098,Construction,Other,Working - Contacted,Cold,34430000,252,Pitesti,Arges,Romania
+Teodora,Preda,Napoca Foods SA,CEO,teodora.preda@napocafoods.example.com,+40 751 346 181,Food & Beverage,Phone Inquiry,Open - Not Contacted,Warm,96020000,605,Iasi,Iasi,Romania
+Tudor,Preda,Bistrita Net SRL,CTO,tudor.preda@bistritanet.example.com,+40 797 873 115,Telecommunications,Partner Referral,Working - Contacted,Hot,6030000,34,Bucuresti,Bucuresti,Romania
+Bogdan,Vasile,Optim Gaz SRL,Manager Achizitii,bogdan.vasile@optimgaz.example.com,+40 743 627 525,Energy,Web,Working - Contacted,Cold,96440000,588,Oradea,Bihor,Romania
+Sorin,Serban,Mures Metal SRL,Manager Proiect,sorin.serban@muresmetal.example.com,+40 750 859 278,Manufacturing,Web,Working - Contacted,Cold,16030000,243,Bucuresti,Bucuresti,Romania
+Cristina,Popa,Fagaras Soft SRL,Director IT,cristina.popa@fagarassoft.example.com,+40 741 189 870,Technology,Purchased List,Working - Contacted,Cold,5290000,43,Timisoara,Timis,Romania
+Oana,Popescu,Siret Med SA,Manager Achizitii,oana.popescu@siretmed.example.com,+40 757 574 020,Healthcare,Web,Open - Not Contacted,Warm,66030000,675,Bucuresti,Bucuresti,Romania
+Vlad,Ionescu,Meridian Digital SRL,CFO,vlad.ionescu@meridiandigital.example.com,,Technology,Web,Open - Not Contacted,Cold,4670000,43,Ploiesti,Prahova,Romania
+Adrian,Ene,Arges Market SA,CFO,adrian.ene@argesmarket.example.com,,Retail,Phone Inquiry,Working - Contacted,Cold,31460000,216,Craiova,Dolj,Romania
+Gabriel,Iliescu,Ceahlau Invest SRL,CFO,gabriel.iliescu@ceahlauinvest.example.com,+40 747 703 639,Finance,Web,Working - Contacted,Warm,39670000,202,Bucuresti,Bucuresti,Romania
+Roxana,Stan,Apuseni Agro SA,Specialist Achizitii,roxana.stan@apuseniagro.example.com,+40 767 900 864,Food & Beverage,Web,Working - Contacted,Warm,75930000,477,Budapest,Budapest,Hungary
+Simona,Constantin,Bistrita Capital SA,CFO,simona.constantin@bistritacapital.example.com,+40 755 583 854,Finance,Web,Working - Contacted,Hot,4450000,82,Ploiesti,Prahova,Romania
+Elena,Dumitru,Fortis Link SRL,Manager Proiect,elena.dumitru@fortislink.example.com,+40 749 892 163,Telecommunications,Web,Working - Contacted,Warm,3270000,20,Timisoara,Timis,Romania
+Diana,Serban,Nova Health SRL,Manager Proiect,diana.serban@novahealth.example.com,+40 733 451 218,Healthcare,Purchased List,Closed - Not Converted,Cold,2150000,18,Iasi,Iasi,Romania
+Vlad,Serban,Terra Trade SRL,CEO,vlad.serban@terratrade.example.com,+40 738 292 616,Retail,Partner Referral,Closed - Not Converted,Hot,11300000,61,Brasov,Brasov,Romania
+Mihai,Munteanu,Alfa Health SA,Director Vanzari,mihai.munteanu@alfahealth.example.com,+40 776 231 123,,Purchased List,Working - Contacted,Warm,19960000,143,Iasi,Iasi,Romania
+Catalin,Dumitru,Sud Construct SRL,Manager Proiect,catalin.dumitru@sudconstruct.example.com,+40 733 632 952,Construction,Purchased List,Working - Contacted,Cold,21570000,189,Sibiu,Sibiu,Romania
+Cristian,Ionescu,Atlas Energy SA,Director Operatiuni,cristian.ionescu@atlasenergy.example.com,+40 789 441 928,Energy,Web,Working - Contacted,Cold,750000,17,Cluj-Napoca,Cluj,Romania
+Raluca,Moldovan,Atlas Soft SA,Specialist Achizitii,raluca.moldovan@atlassoft.example.com,+40 757 635 982,,Partner Referral,Open - Not Contacted,Warm,35640000,238,Ploiesti,Prahova,Romania
+Ionut,Preda,Titan Store SRL,Manager Achizitii,ionut.preda@titanstore.example.com,+40 760 355 406,,Partner Referral,Open - Not Contacted,Hot,14020000,78,Brasov,Brasov,Romania
+Elena,Ene,Vertex Metal SA,Manager Proiect,elena.ene@vertexmetal.example.com,+40 799 067 178,Manufacturing,Web,Open - Not Contacted,Hot,9050000,75,Bucuresti,Bucuresti,Romania
+Tudor,Marin,Fortis Data SA,Director IT,tudor.marin@fortisdata.example.com,+40 771 123 937,Technology,Web,Working - Contacted,Cold,14620000,224,Ploiesti,Prahova,Romania
+Bogdan,Matei,Terra Soft SA,Manager Marketing,bogdan.matei@terrasoft.example.com,+40 767 074 676,Technology,Partner Referral,Working - Contacted,Hot,6980000,123,Munchen,Bayern,Germany
+Stefan,Nistor,Fagaras Data SA,Manager HR,stefan.nistor@fagarasdata.example.com,+40 724 494 037,Technology,Partner Referral,Open - Not Contacted,Hot,52760000,743,Craiova,Dolj,Romania
+Georgiana,Dumitru,Prut Retail SA,Specialist Achizitii,georgiana.dumitru@prutretail.example.com,+40 741 779 952,Retail,Web,Working - Contacted,Warm,246590000,4203,Iasi,Iasi,Romania
+Raluca,Dinu,Oltenia Pharma SA,Manager HR,raluca.dinu@olteniapharma.example.com,,Healthcare,Partner Referral,Open - Not Contacted,Cold,11130000,58,Milano,Lombardia,Italy
+Sorin,Constantin,Prisma Foods SRL,CEO,sorin.constantin@prismafoods.example.com,+40 735 608 472,Food & Beverage,Web,Open - Not Contacted,Cold,3840000,31,Oradea,Bihor,Romania
+Razvan,Matei,Alfa Cloud SRL,Specialist Achizitii,razvan.matei@alfacloud.example.com,+40 761 456 483,Technology,Partner Referral,Open - Not Contacted,Hot,870000,20,Cluj-Napoca,Cluj,Romania
+Elena,Gheorghe,Prut Agro SRL,Director Operatiuni,elena.gheorghe@prutagro.example.com,+40 753 882 465,Food & Beverage,Web,Working - Contacted,Cold,110210000,634,Timisoara,Timis,Romania
+Georgiana,Dumitru,Fortis Soft SA,CEO,georgiana.dumitru@fortissoft.example.com,+40 764 072 643,Technology,Phone Inquiry,Open - Not Contacted,Warm,94410000,718,Bucuresti,Bucuresti,Romania
+Alexandra,Dinu,Transilvania Cloud SRL,Manager Proiect,alexandra.dinu@transilvaniacloud.example.com,+40 749 322 789,Technology,Web,Open - Not Contacted,Cold,13860000,84,Iasi,Iasi,Romania
+Cristian,Radu,Olt Power SRL,Director Operatiuni,cristian.radu@oltpower.example.com,+40 765 614 591,Energy,Partner Referral,Working - Contacted,Hot,650000,12,Iasi,Iasi,Romania
+Dragos,Ene,Carpat Plast SA,Manager Proiect,dragos.ene@carpatplast.example.com,+40 797 856 314,Manufacturing,Other,Open - Not Contacted,Warm,1610000,21,Craiova,Dolj,Romania
+Raluca,Preda,Titan Systems SA,Director Vanzari,raluca.preda@titansystems.example.com,+40 796 238 517,Technology,Web,Open - Not Contacted,Cold,1610000,11,Timisoara,Timis,Romania
+Vlad,Munteanu,Sud Trade SA,Manager HR,vlad.munteanu@sudtrade.example.com,,Retail,Partner Referral,Open - Not Contacted,Warm,8140000,57,Cluj-Napoca,Cluj,Romania
+Roxana,Vasile,Lumina Soft SRL,CTO,roxana.vasile@luminasoft.example.com,+40 720 382 343,Technology,Web,Working - Contacted,Cold,388050000,4925,Brasov,Brasov,Romania
+Raluca,Popa,Sud Pharma SRL,Director Operatiuni,raluca.popa@sudpharma.example.com,+40 728 204 154,Healthcare,Web,Working - Contacted,Warm,385740000,3937,Sibiu,Sibiu,Romania
+Stefan,Oprea,Mures Link SRL,CTO,stefan.oprea@mureslink.example.com,+40 773 433 954,Telecommunications,Partner Referral,Working - Contacted,Cold,302360000,2213,Bucuresti,Bucuresti,Romania
+Radu,Popa,Aurora Health SA,Director Financiar,radu.popa@aurorahealth.example.com,+40 793 237 237,Healthcare,Web,Working - Contacted,Hot,2280000,23,Munchen,Bayern,Germany
+Cristina,Gheorghe,Dacia Energy SA,Director Operatiuni,cristina.gheorghe@daciaenergy.example.com,+40 776 144 154,Energy,Phone Inquiry,Working - Contacted,Cold,3370000,20,Bucuresti,Bucuresti,Romania
+Radu,Stoica,Nova Cargo SRL,Manager Achizitii,radu.stoica@novacargo.example.com,+40 744 222 466,Transportation,Purchased List,Working - Contacted,Warm,18990000,104,Bucuresti,Bucuresti,Romania
+Andrei,Barbu,Aurora Cloud SA,Director Operatiuni,andrei.barbu@auroracloud.example.com,,Technology,Web,Open - Not Contacted,Warm,442420000,2690,Bucuresti,Bucuresti,Romania
+Maria,Iliescu,Ceahlau Cargo SA,Manager Achizitii,maria.iliescu@ceahlaucargo.example.com,,Transportation,Web,Working - Contacted,Warm,4940000,42,Brasov,Brasov,Romania
+Catalin,Nistor,Dobrogea Capital SA,Manager Achizitii,catalin.nistor@dobrogeacapital.example.com,+40 746 177 433,Finance,Web,Open - Not Contacted,Cold,93010000,710,Galati,Galati,Romania
+Mihaela,Cojocaru,Helios Metal SA,Director IT,mihaela.cojocaru@heliosmetal.example.com,+40 776 749 634,Manufacturing,Other,Working - Contacted,Warm,20710000,132,Iasi,Iasi,Romania
+Andrei,Radu,Maramures Med SA,Specialist Achizitii,andrei.radu@maramuresmed.example.com,+40 742 271 293,Healthcare,Web,Open - Not Contacted,Warm,36010000,243,Brasov,Brasov,Romania
+Oana,Serban,Banat Link SA,CEO,oana.serban@banatlink.example.com,+40 754 618 108,Telecommunications,Partner Referral,Closed - Not Converted,Hot,46470000,248,Sibiu,Sibiu,Romania
+Maria,Dinu,Vertex Soft SRL,CFO,maria.dinu@vertexsoft.example.com,+40 735 237 219,Technology,Phone Inquiry,Working - Contacted,Warm,80480000,683,Craiova,Dolj,Romania
+Teodora,Gheorghe,Maramures Capital SRL,Manager Marketing,teodora.gheorghe@maramurescapital.example.com,+40 723 509 601,Finance,Web,Open - Not Contacted,Hot,427740000,4038,Timisoara,Timis,Romania
+Simona,Cojocaru,Polaris Prod SA,Director Operatiuni,simona.cojocaru@polarisprod.example.com,+40 740 594 814,Manufacturing,Web,Working - Contacted,Warm,20550000,161,Budapest,Budapest,Hungary
+Simona,Barbu,Prisma Invest SRL,Director IT,simona.barbu@prismainvest.example.com,+40 772 161 538,Finance,Phone Inquiry,Open - Not Contacted,Hot,12790000,67,Bucuresti,Bucuresti,Romania
+Stefan,Lazar,Optim Logistic SA,Director Financiar,stefan.lazar@optimlogistic.example.com,+40 733 100 099,Transportation,Other,Working - Contacted,Warm,58680000,347,Sibiu,Sibiu,Romania
+Sorin,Stan,Olt Foods SA,Manager Achizitii,sorin.stan@oltfoods.example.com,+40 742 198 343,Food & Beverage,Web,Open - Not Contacted,Cold,17530000,238,Pitesti,Arges,Romania
+Razvan,Barbu,Transilvania Market SA,Director Financiar,razvan.barbu@transilvaniamarket.example.com,,Retail,Partner Referral,Open - Not Contacted,Warm,29420000,313,Cluj-Napoca,Cluj,Romania
+Simona,Lazar,Solaris Metal SA,Manager Proiect,simona.lazar@solarismetal.example.com,+40 768 395 547,Manufacturing,Web,Open - Not Contacted,Warm,115330000,960,Cluj-Napoca,Cluj,Romania
+Vlad,Tudor,Fortis Trans SRL,CFO,vlad.tudor@fortistrans.example.com,+40 766 624 472,Transportation,Other,Working - Contacted,Hot,103000000,1981,Cluj-Napoca,Cluj,Romania
+Maria,Iliescu,Alfa Retail SA,Manager Proiect,maria.iliescu@alfaretail.example.com,,Retail,Other,Open - Not Contacted,Warm,19720000,152,Iasi,Iasi,Romania
+Marius,Moldovan,Fortis Industries SA,CEO,marius.moldovan@fortisindustries.example.com,+40 774 784 300,Manufacturing,Phone Inquiry,Open - Not Contacted,Hot,6390000,35,Iasi,Iasi,Romania
+Marius,Nistor,Ceahlau Build SRL,CTO,marius.nistor@ceahlaubuild.example.com,+40 725 788 385,Construction,Phone Inquiry,Open - Not Contacted,Warm,2220000,15,Cluj-Napoca,Cluj,Romania
+Teodora,Barbu,Alfa Telecom SA,Director Vanzari,teodora.barbu@alfatelecom.example.com,+40 789 839 859,Telecommunications,Web,Open - Not Contacted,Cold,31150000,499,Timisoara,Timis,Romania
+Vlad,Constantin,Titan Trans SRL,Manager Proiect,vlad.constantin@titantrans.example.com,+40 787 443 894,Transportation,Web,Open - Not Contacted,Warm,80910000,442,Iasi,Iasi,Romania
+Vlad,Oprea,Orion Health SA,Director IT,vlad.oprea@orionhealth.example.com,+40 772 307 269,Healthcare,Phone Inquiry,Closed - Not Converted,Cold,1680000,13,Bucuresti,Bucuresti,Romania
+Mihai,Vasile,Optim Construct SRL,CTO,mihai.vasile@optimconstruct.example.com,+40 769 279 174,Construction,Web,Open - Not Contacted,Cold,10280000,82,Cluj-Napoca,Cluj,Romania
+Camelia,Barbu,Carpat Industries SA,Specialist Achizitii,camelia.barbu@carpatindustries.example.com,+40 789 095 375,Manufacturing,Phone Inquiry,Open - Not Contacted,Warm,105150000,614,Brasov,Brasov,Romania
+Andrei,Serban,Terra Trans SA,Manager Achizitii,andrei.serban@terratrans.example.com,+40 789 032 249,Transportation,Other,Working - Contacted,Warm,5570000,31,Cluj-Napoca,Cluj,Romania
+Sorin,Serban,Mures Logistic SRL,,sorin.serban@mureslogistic.example.com,+40 759 169 376,Transportation,Web,Open - Not Contacted,Warm,138830000,901,Sibiu,Sibiu,Romania
+Anca,Tudor,Bistrita Edu SA,Manager Proiect,anca.tudor@bistritaedu.example.com,+40 742 967 424,Education,Partner Referral,Open - Not Contacted,Cold,47270000,238,Pitesti,Arges,Romania
+Georgiana,Dumitru,Maramures Clinic SRL,CTO,georgiana.dumitru@maramuresclinic.example.com,+40 760 372 820,Healthcare,Other,Open - Not Contacted,Warm,600000,12,Iasi,Iasi,Romania
+Marius,Marin,Banat Prod SRL,Manager Achizitii,marius.marin@banatprod.example.com,,Manufacturing,Partner Referral,Open - Not Contacted,Hot,765290000,4749,Brasov,Brasov,Romania
+Radu,Popa,Nord Systems SRL,Director Financiar,radu.popa@nordsystems.example.com,+40 788 580 309,Technology,Partner Referral,Closed - Not Converted,Warm,8810000,85,Timisoara,Timis,Romania
+Teodora,Toma,Oltenia Academy SRL,Director Financiar,teodora.toma@olteniaacademy.example.com,+40 782 466 598,Education,Web,Closed - Not Converted,Warm,1960000,32,Constanta,Constanta,Romania
+Maria,Popa,Terra Solar SA,Specialist Achizitii,maria.popa@terrasolar.example.com,,Energy,Web,Closed - Not Converted,Warm,1600000,15,Timisoara,Timis,Romania
+Lucian,Nistor,Zenit Imob SRL,CEO,lucian.nistor@zenitimob.example.com,+40 720 168 938,Construction,Phone Inquiry,Working - Contacted,Cold,2710000,44,Timisoara,Timis,Romania
+Mihaela,Serban,Transilvania Build SA,CFO,mihaela.serban@transilvaniabuild.example.com,+40 746 795 741,Construction,Purchased List,Working - Contacted,Cold,604810000,4085,Constanta,Constanta,Romania
+Andreea,Ionescu,Vertex Data SA,CEO,andreea.ionescu@vertexdata.example.com,+40 798 327 076,Technology,Web,Open - Not Contacted,Hot,74650000,856,Iasi,Iasi,Romania
+Andreea,Neagu,Bucegi Pharma SRL,Director Vanzari,andreea.neagu@bucegipharma.example.com,+40 766 798 488,Healthcare,Web,Closed - Not Converted,Warm,124840000,1959,Timisoara,Timis,Romania
+Tudor,Matei,Dobrogea Plast SA,Manager Marketing,tudor.matei@dobrogeaplast.example.com,+40 764 456 547,Manufacturing,Web,Open - Not Contacted,Warm,1510000,14,Cluj-Napoca,Cluj,Romania
+Diana,Iliescu,Bucegi Finance SRL,Specialist Achizitii,diana.iliescu@bucegifinance.example.com,+40 746 898 786,Finance,Partner Referral,Working - Contacted,Warm,4870000,32,Pitesti,Arges,Romania
+Andrei,Radu,Polaris Cloud SA,Director Vanzari,andrei.radu@polariscloud.example.com,+40 772 862 536,Technology,Other,Open - Not Contacted,Warm,26710000,180,Cluj-Napoca,Cluj,Romania
+Cristina,Vasile,Optim Credit SA,Manager Proiect,cristina.vasile@optimcredit.example.com,+40 761 473 496,Finance,Web,Closed - Not Converted,Cold,62000000,491,Cluj-Napoca,Cluj,Romania
+Larisa,Nistor,Helios Cloud SRL,Director Financiar,larisa.nistor@helioscloud.example.com,+40 757 832 461,Technology,Purchased List,Working - Contacted,Warm,2780000,22,Bucuresti,Bucuresti,Romania
+Carmen,Vasile,Dacia Net SRL,Manager Marketing,carmen.vasile@dacianet.example.com,+40 792 515 792,Telecommunications,Web,Working - Contacted,Hot,2190000,22,Pitesti,Arges,Romania
+Mihai,Marin,Apex Link SRL,CTO,mihai.marin@apexlink.example.com,+40 729 475 904,Telecommunications,Other,Working - Contacted,Cold,17010000,123,Ploiesti,Prahova,Romania
+Larisa,Lazar,Lumina Solar SA,Director Operatiuni,larisa.lazar@luminasolar.example.com,+40 774 703 555,Energy,Web,Closed - Not Converted,Hot,35700000,359,Cluj-Napoca,Cluj,Romania
+Maria,Stan,Crisana Data SRL,Director IT,maria.stan@crisanadata.example.com,+40 758 288 355,Technology,Purchased List,Open - Not Contacted,Cold,37570000,215,Cluj-Napoca,Cluj,Romania
+Georgiana,Radu,Cerna Metal SA,CFO,georgiana.radu@cernametal.example.com,+40 768 601 315,Manufacturing,Purchased List,Closed - Not Converted,Warm,9020000,47,Sibiu,Sibiu,Romania
+Andreea,Stoica,Zenit Market SRL,Director Vanzari,andreea.stoica@zenitmarket.example.com,+40 738 301 320,Retail,Partner Referral,Working - Contacted,Hot,89270000,977,Ploiesti,Prahova,Romania
+Simona,Popa,Optim Gaz SA,Director Financiar,simona.popa@optimgaz.example.com,+40 744 885 866,Energy,Web,Working - Contacted,Warm,4490000,95,Constanta,Constanta,Romania
+Gabriel,Marin,Vector Academy SA,,gabriel.marin@vectoracademy.example.com,,Education,Other,Working - Contacted,Cold,2180000,26,Bucuresti,Bucuresti,Romania
+Stefan,Ionescu,Mures Agro SRL,Manager Achizitii,stefan.ionescu@muresagro.example.com,+40 789 528 394,Food & Beverage,Phone Inquiry,Working - Contacted,Hot,5240000,122,Milano,Lombardia,Italy
+Alexandra,Preda,Argo Trans SRL,Director Operatiuni,alexandra.preda@argotrans.example.com,+40 721 841 454,Transportation,Phone Inquiry,Open - Not Contacted,Warm,30040000,193,Pitesti,Arges,Romania
+Carmen,Preda,Banat Med SA,Specialist Achizitii,carmen.preda@banatmed.example.com,+40 756 356 617,Healthcare,Purchased List,Closed - Not Converted,Cold,4870000,73,Bucuresti,Bucuresti,Romania
+Teodora,Gheorghe,Nord Invest SA,Manager Proiect,teodora.gheorghe@nordinvest.example.com,,Finance,Phone Inquiry,Open - Not Contacted,Warm,74030000,659,Craiova,Dolj,Romania
+Tudor,Munteanu,Fortis Retail SRL,Manager Proiect,tudor.munteanu@fortisretail.example.com,+40 774 753 420,Retail,Partner Referral,Working - Contacted,Hot,40610000,497,Iasi,Iasi,Romania
+Mihaela,Constantin,Transilvania Data SRL,Manager Proiect,mihaela.constantin@transilvaniadata.example.com,+40 789 542 093,,Phone Inquiry,Open - Not Contacted,Warm,24040000,129,Iasi,Iasi,Romania
+Alexandra,Barbu,Bucegi Trans SRL,Manager Proiect,alexandra.barbu@bucegitrans.example.com,+40 745 437 688,Transportation,Partner Referral,Closed - Not Converted,Cold,58000000,483,Constanta,Constanta,Romania
+Andrei,Constantin,Retezat Soft SRL,Director Operatiuni,andrei.constantin@retezatsoft.example.com,+40 771 518 935,Technology,Web,Closed - Not Converted,Hot,5670000,119,Brasov,Brasov,Romania
+Camelia,Serban,Delta Data SA,,camelia.serban@deltadata.example.com,+40 770 026 375,Technology,Other,Open - Not Contacted,Cold,792530000,4967,Iasi,Iasi,Romania
+Razvan,Iliescu,Nord Prod SRL,Manager Proiect,razvan.iliescu@nordprod.example.com,+40 752 002 362,Manufacturing,Web,Open - Not Contacted,Hot,1480000,10,Iasi,Iasi,Romania
+Gabriel,Moldovan,Cerna Net SA,Manager Marketing,gabriel.moldovan@cernanet.example.com,+40 778 343 237,Telecommunications,Purchased List,Closed - Not Converted,Cold,899320000,4505,Cluj-Napoca,Cluj,Romania
+Dragos,Nistor,Mures Med SRL,Director Operatiuni,dragos.nistor@muresmed.example.com,+40 744 593 558,Healthcare,Phone Inquiry,Open - Not Contacted,Warm,67530000,914,Cluj-Napoca,Cluj,Romania
+Alexandra,Cojocaru,Ceahlau Telecom SRL,CFO,alexandra.cojocaru@ceahlautelecom.example.com,+40 765 588 619,Telecommunications,Purchased List,Working - Contacted,Cold,222050000,1297,Munchen,Bayern,Germany
+Teodora,Ene,Dunarea Pharma SRL,Specialist Achizitii,teodora.ene@dunareapharma.example.com,+40 769 831 146,,Purchased List,Working - Contacted,Cold,24530000,230,Bucuresti,Bucuresti,Romania
+Daniel,Dinu,Orion Pharma SRL,Manager Achizitii,daniel.dinu@orionpharma.example.com,+40 728 275 966,Healthcare,Phone Inquiry,Closed - Not Converted,Cold,24350000,146,Bucuresti,Bucuresti,Romania
+Roxana,Tudor,Olt Market SA,Director Vanzari,roxana.tudor@oltmarket.example.com,+40 721 807 857,Retail,Web,Working - Contacted,Hot,12870000,298,Brasov,Brasov,Romania
+Dragos,Moldovan,Alfa Learning SRL,CFO,dragos.moldovan@alfalearning.example.com,+40 744 338 336,Education,Web,Closed - Not Converted,Cold,5840000,79,Sibiu,Sibiu,Romania
+Anca,Nistor,Nera Systems SA,Specialist Achizitii,anca.nistor@nerasystems.example.com,+40 735 238 670,Technology,Purchased List,Closed - Not Converted,Hot,53050000,854,Cluj-Napoca,Cluj,Romania
+Cristina,Toma,Bucegi Solar SRL,Director Operatiuni,cristina.toma@bucegisolar.example.com,,Energy,Phone Inquiry,Working - Contacted,Warm,19990000,237,Bucuresti,Bucuresti,Romania
+Radu,Dinu,Mondo Finance SRL,Director Vanzari,radu.dinu@mondofinance.example.com,+40 765 215 702,Finance,Phone Inquiry,Working - Contacted,Cold,118530000,902,Cluj-Napoca,Cluj,Romania
+Simona,Nistor,Transilvania Digital SA,Specialist Achizitii,simona.nistor@transilvaniadigital.example.com,+40 736 774 492,Technology,Phone Inquiry,Open - Not Contacted,Cold,18830000,222,Timisoara,Timis,Romania
+Maria,Stan,Crisana Energy SA,Director Financiar,maria.stan@crisanaenergy.example.com,+40 740 087 632,Energy,Partner Referral,Open - Not Contacted,Cold,133240000,882,Munchen,Bayern,Germany
+Lucian,Stoica,Nord Plast SA,CTO,lucian.stoica@nordplast.example.com,+40 746 528 766,Manufacturing,Web,Working - Contacted,Cold,3730000,31,Brasov,Brasov,Romania
+Andreea,Nistor,Crisana Construct SA,CFO,andreea.nistor@crisanaconstruct.example.com,,Construction,Web,Open - Not Contacted,Cold,31350000,598,Budapest,Budapest,Hungary
+Andrei,Lazar,Prisma Metal SA,Director IT,andrei.lazar@prismametal.example.com,+40 753 997 775,Manufacturing,Partner Referral,Open - Not Contacted,Warm,39670000,564,Sibiu,Sibiu,Romania
+Florin,Dumitru,Crisana Soft SA,Director Vanzari,florin.dumitru@crisanasoft.example.com,+40 758 231 040,Technology,Phone Inquiry,Working - Contacted,Hot,4620000,43,Bucuresti,Bucuresti,Romania
+Stefan,Marin,Atlas Pharma SRL,,stefan.marin@atlaspharma.example.com,+40 734 815 915,Healthcare,Partner Referral,Working - Contacted,Warm,20900000,132,Timisoara,Timis,Romania
+Georgiana,Serban,Mures Credit SA,Director Operatiuni,georgiana.serban@murescredit.example.com,+40 761 104 174,Finance,Phone Inquiry,Open - Not Contacted,Warm,160590000,842,Timisoara,Timis,Romania
+Cristian,Ionescu,Polaris Academy SA,Manager Marketing,cristian.ionescu@polarisacademy.example.com,+40 738 788 363,Education,Phone Inquiry,Open - Not Contacted,Cold,2080000,14,Cluj-Napoca,Cluj,Romania
+Tudor,Stan,Mondo Cloud SA,Director IT,tudor.stan@mondocloud.example.com,+40 793 560 636,Technology,Web,Working - Contacted,Cold,748390000,4176,Cluj-Napoca,Cluj,Romania
+Georgiana,Rusu,Retezat Data SA,Manager Achizitii,georgiana.rusu@retezatdata.example.com,+40 771 666 580,Technology,Purchased List,Closed - Not Converted,Cold,42210000,694,Timisoara,Timis,Romania
+Larisa,Ionescu,Arges Data SA,CFO,larisa.ionescu@argesdata.example.com,+40 789 388 014,Technology,Phone Inquiry,Working - Contacted,Hot,8450000,154,Iasi,Iasi,Romania
+Georgiana,Ionescu,Siret Data SRL,Manager Marketing,georgiana.ionescu@siretdata.example.com,+40 776 876 478,Technology,Other,Open - Not Contacted,Hot,11970000,235,Bucuresti,Bucuresti,Romania
+Vlad,Dumitru,Arges Agro SA,Manager Marketing,vlad.dumitru@argesagro.example.com,+40 743 011 185,Food & Beverage,Purchased List,Closed - Not Converted,Cold,24960000,222,Bucuresti,Bucuresti,Romania
+Gabriel,Matei,Apuseni Clinic SRL,Director Vanzari,gabriel.matei@apuseniclinic.example.com,+40 748 209 127,Healthcare,Purchased List,Closed - Not Converted,Warm,18470000,131,Constanta,Constanta,Romania
+Lucian,Popa,Zenit Capital SRL,CTO,lucian.popa@zenitcapital.example.com,+40 775 759 726,Finance,Phone Inquiry,Open - Not Contacted,Hot,6190000,130,Constanta,Constanta,Romania
+Camelia,Marin,Mures Finance SRL,CTO,camelia.marin@muresfinance.example.com,+40 799 691 368,Finance,Web,Working - Contacted,Hot,45170000,630,Cluj-Napoca,Cluj,Romania
+Alexandra,Nistor,Napoca Cargo SA,Manager HR,alexandra.nistor@napocacargo.example.com,+40 734 880 747,Transportation,Phone Inquiry,Open - Not Contacted,Hot,189130000,2087,Bucuresti,Bucuresti,Romania
+Dragos,Dinu,Mures Academy SRL,Director Vanzari,dragos.dinu@muresacademy.example.com,+40 738 644 059,Education,Other,Working - Contacted,Cold,139090000,980,Ploiesti,Prahova,Romania
+Andrei,Barbu,Lumina Invest SRL,Director IT,andrei.barbu@luminainvest.example.com,+40 785 417 123,Finance,Web,Open - Not Contacted,Cold,14780000,77,Bucuresti,Bucuresti,Romania
+Adrian,Stoica,Meridian Metal SA,Manager Achizitii,adrian.stoica@meridianmetal.example.com,+40 735 151 670,Manufacturing,Web,Open - Not Contacted,Warm,3920000,37,Cluj-Napoca,Cluj,Romania
+Teodora,Matei,Olt Pharma SRL,Manager Achizitii,teodora.matei@oltpharma.example.com,+40 763 260 320,Healthcare,Web,Closed - Not Converted,Warm,10300000,66,Iasi,Iasi,Romania
+Monica,Tudor,Mondo Credit SRL,Manager Proiect,monica.tudor@mondocredit.example.com,+40 782 473 679,Finance,Phone Inquiry,Working - Contacted,Warm,42560000,231,Bucuresti,Bucuresti,Romania
+Raluca,Preda,Solaris Credit SRL,Director IT,raluca.preda@solariscredit.example.com,+40 777 253 696,Finance,Other,Open - Not Contacted,Warm,5740000,30,Sibiu,Sibiu,Romania
+Lucian,Rusu,Solaris Learning SRL,Specialist Achizitii,lucian.rusu@solarislearning.example.com,+40 750 370 221,Education,Phone Inquiry,Working - Contacted,Warm,8810000,70,Galati,Galati,Romania
+Roxana,Popa,Orion Academy SRL,CEO,roxana.popa@orionacademy.example.com,+40 799 758 434,Education,Web,Closed - Not Converted,Cold,41480000,238,Bucuresti,Bucuresti,Romania
+Mihaela,Ionescu,Polaris Clinic SRL,Director Operatiuni,mihaela.ionescu@polarisclinic.example.com,+40 759 444 767,Healthcare,Partner Referral,Working - Contacted,Hot,1180000,20,Timisoara,Timis,Romania
+Dragos,Ene,Solaris Health SRL,Manager Proiect,dragos.ene@solarishealth.example.com,+40 775 066 614,,Phone Inquiry,Open - Not Contacted,Warm,92800000,540,Bucuresti,Bucuresti,Romania
+Elena,Rusu,Crisana Construct SRL,Manager Marketing,elena.rusu@crisanaconstruct.example.com,+40 799 430 696,Construction,Partner Referral,Open - Not Contacted,Warm,566670000,4645,Brasov,Brasov,Romania
+Catalin,Marin,Solaris Energy SA,Director IT,catalin.marin@solarisenergy.example.com,+40 732 262 799,Energy,Web,Working - Contacted,Hot,44450000,322,Cluj-Napoca,Cluj,Romania
+Roxana,Popa,Solaris Trade SRL,Manager Proiect,roxana.popa@solaristrade.example.com,+40 791 398 397,Retail,Web,Open - Not Contacted,Warm,18050000,311,Craiova,Dolj,Romania
+Catalin,Preda,Prisma Trade SRL,CFO,catalin.preda@prismatrade.example.com,+40 785 354 882,Retail,Other,Working - Contacted,Warm,108290000,603,Cluj-Napoca,Cluj,Romania
+Larisa,Popescu,Helios Retail SRL,Manager Achizitii,larisa.popescu@heliosretail.example.com,+40 789 529 031,Retail,Web,Open - Not Contacted,Warm,28430000,200,Iasi,Iasi,Romania
+Marius,Stoica,Mures Plast SA,,marius.stoica@muresplast.example.com,+40 770 829 670,Manufacturing,Web,Open - Not Contacted,Hot,32610000,182,Milano,Lombardia,Italy
+Diana,Neagu,Maramures Prod SRL,CFO,diana.neagu@maramuresprod.example.com,,Manufacturing,Purchased List,Closed - Not Converted,Hot,1980000,24,Brasov,Brasov,Romania
+Diana,Popa,Arges Net SRL,Director Operatiuni,diana.popa@argesnet.example.com,,Telecommunications,Web,Working - Contacted,Hot,113420000,750,Brasov,Brasov,Romania
+Cristian,Rusu,Maramures Metal SRL,Specialist Achizitii,cristian.rusu@maramuresmetal.example.com,+40 727 939 303,Manufacturing,Other,Working - Contacted,Cold,558510000,3195,Oradea,Bihor,Romania
+Lucian,Cojocaru,Meridian Build SA,Manager HR,lucian.cojocaru@meridianbuild.example.com,+40 753 686 699,Construction,Purchased List,Open - Not Contacted,Cold,25100000,204,Craiova,Dolj,Romania
+Alexandra,Gheorghe,Atlas Edu SA,Manager Marketing,alexandra.gheorghe@atlasedu.example.com,+40 785 875 319,Education,Purchased List,Working - Contacted,Warm,161300000,886,Bucuresti,Bucuresti,Romania
+Cristina,Iliescu,Bucegi Trade SRL,Manager HR,cristina.iliescu@bucegitrade.example.com,+40 733 553 205,Retail,Web,Working - Contacted,Warm,6270000,80,Bucuresti,Bucuresti,Romania
+Cristian,Popescu,Carpat Store SA,Manager HR,cristian.popescu@carpatstore.example.com,+40 765 325 763,,Web,Working - Contacted,Warm,24550000,180,Constanta,Constanta,Romania
+Adrian,Marin,Nera Learning SRL,CTO,adrian.marin@neralearning.example.com,,Education,Phone Inquiry,Working - Contacted,Warm,2500000,43,Timisoara,Timis,Romania
+Simona,Dumitru,Solaris Data SRL,CTO,simona.dumitru@solarisdata.example.com,+40 726 352 938,Technology,Purchased List,Open - Not Contacted,Hot,21010000,115,Timisoara,Timis,Romania
+Catalin,Constantin,Helios Systems SRL,Director Financiar,catalin.constantin@heliossystems.example.com,+40 759 393 512,Technology,Web,Open - Not Contacted,Hot,433480000,4682,Budapest,Budapest,Hungary
+Gabriel,Ene,Olt Energy SRL,Manager Proiect,gabriel.ene@oltenergy.example.com,+40 762 287 063,,Web,Open - Not Contacted,Warm,183220000,984,Constanta,Constanta,Romania
+Radu,Avram,Prut Store SRL,Director Financiar,radu.avram@prutstore.example.com,+40 751 613 811,Retail,Purchased List,Working - Contacted,Cold,2700000,14,Bucuresti,Bucuresti,Romania
+Carmen,Ionescu,Helios Net SRL,CEO,carmen.ionescu@heliosnet.example.com,+40 747 622 197,Telecommunications,Web,Working - Contacted,Warm,19710000,99,Brasov,Brasov,Romania
+Radu,Neagu,Nera Cloud SA,Manager Achizitii,radu.neagu@neracloud.example.com,+40 797 961 274,Technology,Web,Open - Not Contacted,Hot,40300000,248,Iasi,Iasi,Romania
+Roxana,Serban,Mondo Learning SA,Manager Proiect,roxana.serban@mondolearning.example.com,+40 776 135 011,Education,Web,Open - Not Contacted,Cold,52420000,885,Iasi,Iasi,Romania
+Mihai,Iliescu,Dacia Retail SRL,Director Vanzari,mihai.iliescu@daciaretail.example.com,+40 765 678 306,Retail,Web,Working - Contacted,Cold,13760000,151,Timisoara,Timis,Romania
+Diana,Nistor,Retezat Med SA,Director Operatiuni,diana.nistor@retezatmed.example.com,+40 745 599 679,Healthcare,Phone Inquiry,Working - Contacted,Hot,14910000,92,Craiova,Dolj,Romania
+Lucian,Lazar,Cerna Build SRL,,lucian.lazar@cernabuild.example.com,+40 780 269 610,Construction,Web,Working - Contacted,Warm,1140000,15,Bucuresti,Bucuresti,Romania
+Gabriel,Dumitru,Delta Credit SA,Specialist Achizitii,gabriel.dumitru@deltacredit.example.com,+40 788 162 943,Finance,Partner Referral,Closed - Not Converted,Hot,18830000,195,Bucuresti,Bucuresti,Romania
+Dragos,Popa,Bucegi Credit SRL,,dragos.popa@bucegicredit.example.com,+40 722 013 070,Finance,Web,Open - Not Contacted,Hot,1050000,13,Sibiu,Sibiu,Romania
+Alexandru,Rusu,Alfa Academy SRL,Manager Achizitii,alexandru.rusu@alfaacademy.example.com,+40 723 282 347,Education,Web,Open - Not Contacted,Hot,1130000,22,Timisoara,Timis,Romania
+Camelia,Munteanu,Polaris Industries SRL,CFO,camelia.munteanu@polarisindustries.example.com,+40 782 723 591,Manufacturing,Web,Working - Contacted,Warm,64610000,810,Bucuresti,Bucuresti,Romania
+Bogdan,Dinu,Olt Build SRL,Director Operatiuni,bogdan.dinu@oltbuild.example.com,+40 781 005 717,Construction,Purchased List,Working - Contacted,Warm,16260000,266,Iasi,Iasi,Romania
+Ionut,Radu,Atlas Digital SRL,,ionut.radu@atlasdigital.example.com,+40 763 479 862,Technology,Web,Working - Contacted,Warm,2280000,47,Cluj-Napoca,Cluj,Romania
+Lucian,Constantin,Lumina Invest SA,Manager Proiect,lucian.constantin@luminainvest.example.com,+40 798 018 978,Finance,Partner Referral,Working - Contacted,Hot,124330000,805,Timisoara,Timis,Romania
+Cristian,Cojocaru,Olt Metal SA,Director Vanzari,cristian.cojocaru@oltmetal.example.com,+40 783 518 179,Manufacturing,Partner Referral,Working - Contacted,Warm,164820000,849,Craiova,Dolj,Romania
+Sorin,Vasile,Sud Gaz SA,CFO,sorin.vasile@sudgaz.example.com,+40 756 297 562,Energy,Other,Open - Not Contacted,Cold,3110000,39,Munchen,Bayern,Germany
+Maria,Lazar,Dobrogea Digital SA,Director Financiar,maria.lazar@dobrogeadigital.example.com,+40 739 859 877,Technology,Phone Inquiry,Working - Contacted,Hot,1130000,15,Craiova,Dolj,Romania
+Raluca,Dinu,Apex Drinks SA,Manager HR,raluca.dinu@apexdrinks.example.com,+40 787 790 834,Food & Beverage,Partner Referral,Closed - Not Converted,Hot,810000,12,Iasi,Iasi,Romania
+Laura,Mocanu,Atlas Invest SRL,CFO,laura.mocanu@atlasinvest.example.com,+40 751 523 597,Finance,Phone Inquiry,Open - Not Contacted,Cold,183380000,3655,Timisoara,Timis,Romania
+Oana,Tudor,Bistrita Capital SRL,Manager Achizitii,oana.tudor@bistritacapital.example.com,+40 784 406 393,Finance,Web,Open - Not Contacted,Warm,18770000,155,Sibiu,Sibiu,Romania
+Carmen,Matei,Retezat Power SA,Director Vanzari,carmen.matei@retezatpower.example.com,+40 793 208 401,Energy,Other,Open - Not Contacted,Warm,16160000,109,Cluj-Napoca,Cluj,Romania
+Daniel,Rusu,Orion Market SRL,CEO,daniel.rusu@orionmarket.example.com,+40 742 724 821,Retail,Phone Inquiry,Open - Not Contacted,Warm,4120000,30,Iasi,Iasi,Romania
+Tudor,Stoica,Retezat Soft SA,CTO,tudor.stoica@retezatsoft.example.com,,Technology,Web,Open - Not Contacted,Cold,7720000,68,Bucuresti,Bucuresti,Romania
+Tudor,Lazar,Somes Link SRL,CEO,tudor.lazar@someslink.example.com,+40 791 036 988,Telecommunications,Partner Referral,Working - Contacted,Hot,3890000,42,Cluj-Napoca,Cluj,Romania
+Georgiana,Dumitru,Meridian Construct SA,Manager Proiect,georgiana.dumitru@meridianconstruct.example.com,+40 781 285 157,Construction,Purchased List,Closed - Not Converted,Cold,4860000,25,Pitesti,Arges,Romania
+Vlad,Moldovan,Bucegi Construct SA,Manager Achizitii,vlad.moldovan@bucegiconstruct.example.com,,Construction,Web,Open - Not Contacted,Cold,18490000,284,Bucuresti,Bucuresti,Romania
+Dragos,Constantin,Jiu Trans SA,Manager Achizitii,dragos.constantin@jiutrans.example.com,+40 745 839 049,Transportation,Web,Working - Contacted,Hot,5720000,35,Sibiu,Sibiu,Romania
+Oana,Matei,Ceahlau Retail SA,Director Financiar,oana.matei@ceahlauretail.example.com,+40 746 519 397,Retail,Web,Closed - Not Converted,Cold,18720000,112,Constanta,Constanta,Romania
+Alexandra,Nistor,Cerna Foods SRL,,alexandra.nistor@cernafoods.example.com,+40 772 344 973,Food & Beverage,Phone Inquiry,Closed - Not Converted,Warm,717030000,4065,Constanta,Constanta,Romania
+Elena,Cojocaru,Jiu Trans SRL,Manager Marketing,elena.cojocaru@jiutrans.example.com,+40 727 744 396,Transportation,Web,Open - Not Contacted,Cold,14090000,88,Cluj-Napoca,Cluj,Romania
+Elena,Preda,Jiu Energy SA,Director IT,elena.preda@jiuenergy.example.com,,Energy,Partner Referral,Open - Not Contacted,Hot,383550000,3816,Brasov,Brasov,Romania
+Roxana,Popa,Vertex Net SRL,Director Operatiuni,roxana.popa@vertexnet.example.com,+40 789 419 957,Telecommunications,Web,Working - Contacted,Cold,8570000,47,Cluj-Napoca,Cluj,Romania
+Vlad,Tudor,Optim Pharma SRL,Manager Achizitii,vlad.tudor@optimpharma.example.com,,Healthcare,Purchased List,Closed - Not Converted,Cold,85950000,1445,Ploiesti,Prahova,Romania
+Elena,Gheorghe,Napoca Build SRL,Manager Marketing,elena.gheorghe@napocabuild.example.com,+40 727 180 967,Construction,Phone Inquiry,Working - Contacted,Cold,41560000,245,Cluj-Napoca,Cluj,Romania
+Anca,Dinu,Prisma Med SA,Director Financiar,anca.dinu@prismamed.example.com,+40 748 218 732,Healthcare,Web,Closed - Not Converted,Hot,610000,11,Constanta,Constanta,Romania
+Monica,Neagu,Carpat Soft SRL,Director Financiar,monica.neagu@carpatsoft.example.com,+40 730 284 836,Technology,Purchased List,Open - Not Contacted,Cold,8910000,111,Cluj-Napoca,Cluj,Romania
+Bogdan,Dumitru,Transilvania Soft SA,Manager Proiect,bogdan.dumitru@transilvaniasoft.example.com,+40 723 999 225,Technology,Web,Working - Contacted,Cold,2450000,56,Oradea,Bihor,Romania
+Mihai,Stan,Titan Agro SA,Manager Achizitii,mihai.stan@titanagro.example.com,+40 784 087 583,Food & Beverage,Other,Closed - Not Converted,Hot,75030000,594,Galati,Galati,Romania
+Maria,Iliescu,Napoca Academy SA,Manager Marketing,maria.iliescu@napocaacademy.example.com,+40 744 011 943,Education,Purchased List,Open - Not Contacted,Warm,24200000,145,Oradea,Bihor,Romania
+Dragos,Iliescu,Dacia Drinks SRL,CFO,dragos.iliescu@daciadrinks.example.com,+40 776 897 375,Food & Beverage,Web,Closed - Not Converted,Cold,137260000,2100,Galati,Galati,Romania
+Mihai,Cojocaru,Helios Learning SA,Manager Proiect,mihai.cojocaru@helioslearning.example.com,+40 792 344 094,Education,Partner Referral,Working - Contacted,Hot,2390000,27,Constanta,Constanta,Romania
+Andreea,Toma,Solaris Invest SRL,,andreea.toma@solarisinvest.example.com,+40 775 993 788,Finance,Phone Inquiry,Open - Not Contacted,Warm,77550000,717,Bucuresti,Bucuresti,Romania
+Cristian,Marin,Terra Academy SA,Director IT,cristian.marin@terraacademy.example.com,+40 722 957 487,Education,Purchased List,Working - Contacted,Cold,31840000,181,Bucuresti,Bucuresti,Romania
+Diana,Radu,Jiu Soft SRL,CTO,diana.radu@jiusoft.example.com,,Technology,Other,Open - Not Contacted,Cold,217890000,2120,Ploiesti,Prahova,Romania
+Camelia,Neagu,Vertex Link SA,Director Operatiuni,camelia.neagu@vertexlink.example.com,+40 793 681 717,Telecommunications,Web,Working - Contacted,Warm,4640000,29,Bucuresti,Bucuresti,Romania
+Cristian,Toma,Helios Trade SRL,Director IT,cristian.toma@heliostrade.example.com,+40 774 668 965,Retail,Web,Working - Contacted,Warm,45360000,616,Oradea,Bihor,Romania
+Oana,Serban,Atlas Capital SRL,Manager Proiect,oana.serban@atlascapital.example.com,+40 794 091 465,Finance,Purchased List,Working - Contacted,Cold,2230000,18,Bucuresti,Bucuresti,Romania
+Radu,Rusu,Olt Imob SRL,Director IT,radu.rusu@oltimob.example.com,+40 739 259 687,Construction,Web,Working - Contacted,Warm,26690000,153,Ploiesti,Prahova,Romania
+Georgiana,Lazar,Fortis Prod SA,Director Operatiuni,georgiana.lazar@fortisprod.example.com,+40 762 816 971,Manufacturing,Web,Closed - Not Converted,Cold,131450000,1029,Bucuresti,Bucuresti,Romania
+Dragos,Mocanu,Retezat Power SRL,Director Financiar,dragos.mocanu@retezatpower.example.com,+40 765 842 030,Energy,Web,Working - Contacted,Hot,2700000,16,Ploiesti,Prahova,Romania
+Catalin,Moldovan,Alfa Systems SRL,Manager HR,catalin.moldovan@alfasystems.example.com,+40 746 291 966,Technology,Web,Closed - Not Converted,Cold,10130000,192,Constanta,Constanta,Romania
+Gabriel,Matei,Ceahlau Finance SA,Manager HR,gabriel.matei@ceahlaufinance.example.com,+40 784 846 833,Finance,Web,Working - Contacted,Cold,281630000,4339,Timisoara,Timis,Romania
+Sorin,Oprea,Bucegi Market SA,Director Vanzari,sorin.oprea@bucegimarket.example.com,+40 752 144 988,Retail,Purchased List,Closed - Not Converted,Cold,28810000,151,Bucuresti,Bucuresti,Romania
+Anca,Popa,Fagaras Market SRL,,anca.popa@fagarasmarket.example.com,+40 784 260 001,Retail,Purchased List,Closed - Not Converted,Cold,17650000,136,Cluj-Napoca,Cluj,Romania
+Laura,Moldovan,Napoca Med SA,Specialist Achizitii,laura.moldovan@napocamed.example.com,,Healthcare,Phone Inquiry,Working - Contacted,Hot,2010000,42,Galati,Galati,Romania
+Andreea,Munteanu,Retezat Foods SRL,Director Operatiuni,andreea.munteanu@retezatfoods.example.com,+40 757 389 891,Food & Beverage,Purchased List,Working - Contacted,Cold,4370000,33,Galati,Galati,Romania
+Ionut,Dumitru,Helios Clinic SA,Specialist Achizitii,ionut.dumitru@heliosclinic.example.com,+40 783 117 636,Healthcare,Other,Working - Contacted,Cold,18340000,112,Timisoara,Timis,Romania
+Lucian,Stan,Dacia Soft SA,Director Vanzari,lucian.stan@daciasoft.example.com,+40 794 126 111,Technology,Partner Referral,Open - Not Contacted,Cold,116060000,796,Constanta,Constanta,Romania
+Lucian,Popa,Bistrita Telecom SRL,Manager Achizitii,lucian.popa@bistritatelecom.example.com,+40 753 209 922,,Web,Closed - Not Converted,Cold,35860000,866,Bucuresti,Bucuresti,Romania
+Larisa,Munteanu,Moldova Foods SRL,Manager Achizitii,larisa.munteanu@moldovafoods.example.com,+40 733 964 575,Food & Beverage,Web,Working - Contacted,Warm,780000,13,Iasi,Iasi,Romania
+Alexandra,Serban,Lumina Drinks SRL,Manager Achizitii,alexandra.serban@luminadrinks.example.com,+40 739 557 563,Food & Beverage,Other,Working - Contacted,Cold,34890000,225,Iasi,Iasi,Romania
+Razvan,Cojocaru,Solaris Market SA,Director Vanzari,razvan.cojocaru@solarismarket.example.com,+40 781 362 604,Retail,Purchased List,Working - Contacted,Warm,16300000,110,Bucuresti,Bucuresti,Romania
+Raluca,Constantin,Cerna Pharma SA,Director Operatiuni,raluca.constantin@cernapharma.example.com,+40 773 992 991,Healthcare,Purchased List,Closed - Not Converted,Cold,27820000,229,Craiova,Dolj,Romania
+Razvan,Preda,Optim Agro SRL,Specialist Achizitii,razvan.preda@optimagro.example.com,+40 789 900 079,Food & Beverage,Web,Open - Not Contacted,Hot,1490000,26,Brasov,Brasov,Romania
+Mihaela,Constantin,Transilvania Metal SRL,CEO,mihaela.constantin@transilvaniametal.example.com,+40 795 147 053,Manufacturing,Web,Open - Not Contacted,Cold,1120000,18,Brasov,Brasov,Romania
+Georgiana,Popescu,Fortis Data SRL,,georgiana.popescu@fortisdata.example.com,+40 729 722 131,Technology,Web,Working - Contacted,Hot,4730000,24,Bucuresti,Bucuresti,Romania
+Cristina,Nistor,Argo Metal SA,CEO,cristina.nistor@argometal.example.com,+40 780 323 444,Manufacturing,Web,Open - Not Contacted,Cold,31670000,244,Cluj-Napoca,Cluj,Romania
+Adrian,Mocanu,Retezat Prod SRL,CFO,adrian.mocanu@retezatprod.example.com,+40 788 712 330,Manufacturing,Phone Inquiry,Working - Contacted,Hot,4000000,29,Oradea,Bihor,Romania
+Bogdan,Ionescu,Nera Store SRL,Director Vanzari,bogdan.ionescu@nerastore.example.com,+40 761 444 524,Retail,Purchased List,Closed - Not Converted,Cold,128430000,1294,Timisoara,Timis,Romania
+Alexandra,Avram,Terra Capital SRL,CTO,alexandra.avram@terracapital.example.com,+40 747 618 165,Finance,Purchased List,Open - Not Contacted,Cold,519760000,4152,Brasov,Brasov,Romania
+Diana,Stoica,Vertex Plast SA,Manager Achizitii,diana.stoica@vertexplast.example.com,+40 754 170 974,Manufacturing,Purchased List,Working - Contacted,Cold,38060000,239,Brasov,Brasov,Romania
+Teodora,Dinu,Mondo Market SA,Director Vanzari,teodora.dinu@mondomarket.example.com,+40 773 942 215,Retail,Purchased List,Closed - Not Converted,Cold,2300000,13,Timisoara,Timis,Romania
+Alexandra,Vasile,Sud Power SRL,CEO,alexandra.vasile@sudpower.example.com,+40 757 255 713,Energy,Partner Referral,Working - Contacted,Warm,1830000,12,Oradea,Bihor,Romania
+Marius,Oprea,Nova Logistic SA,Manager Achizitii,marius.oprea@novalogistic.example.com,+40 752 030 048,Transportation,Phone Inquiry,Closed - Not Converted,Hot,29570000,232,Bucuresti,Bucuresti,Romania
+Mihai,Constantin,Olt Systems SA,CTO,mihai.constantin@oltsystems.example.com,+40 755 150 611,Technology,Phone Inquiry,Working - Contacted,Cold,3790000,20,Bucuresti,Bucuresti,Romania
+Georgiana,Popescu,Prut Clinic SRL,CTO,georgiana.popescu@prutclinic.example.com,,Healthcare,Purchased List,Open - Not Contacted,Warm,4050000,99,Bucuresti,Bucuresti,Romania
+Razvan,Nistor,Cerna Retail SRL,Manager Marketing,razvan.nistor@cernaretail.example.com,+40 735 768 792,Retail,Partner Referral,Closed - Not Converted,Hot,14140000,73,Brasov,Brasov,Romania
+Dragos,Serban,Mures Capital SA,CFO,dragos.serban@murescapital.example.com,+40 739 840 891,Finance,Phone Inquiry,Working - Contacted,Warm,3620000,40,Timisoara,Timis,Romania
+Carmen,Munteanu,Terra Digital SRL,Director IT,carmen.munteanu@terradigital.example.com,+40 765 407 122,Technology,Phone Inquiry,Open - Not Contacted,Warm,4460000,25,Cluj-Napoca,Cluj,Romania
+Cristina,Constantin,Apex Logistic SA,CTO,cristina.constantin@apexlogistic.example.com,+40 733 661 466,Transportation,Phone Inquiry,Closed - Not Converted,Hot,3050000,16,Bucuresti,Bucuresti,Romania
+Bogdan,Neagu,Dobrogea Trade SA,Manager Proiect,bogdan.neagu@dobrogeatrade.example.com,+40 766 577 305,Retail,Phone Inquiry,Closed - Not Converted,Warm,3630000,23,Brasov,Brasov,Romania
+Andrei,Dumitru,Fortis Health SA,CEO,andrei.dumitru@fortishealth.example.com,+40 752 508 631,Healthcare,Web,Working - Contacted,Cold,29030000,184,Sibiu,Sibiu,Romania
+Monica,Vasile,Napoca Metal SA,Director Financiar,monica.vasile@napocametal.example.com,+40 727 887 596,Manufacturing,Web,Working - Contacted,Hot,50850000,708,Constanta,Constanta,Romania
+Ionut,Cojocaru,Aurora Store SRL,Director Operatiuni,ionut.cojocaru@aurorastore.example.com,+40 761 831 295,Retail,Web,Open - Not Contacted,Cold,36160000,233,Bucuresti,Bucuresti,Romania
+Oana,Dumitru,Retezat Industries SA,Director Vanzari,oana.dumitru@retezatindustries.example.com,+40 750 640 686,Manufacturing,Web,Open - Not Contacted,Hot,19700000,184,Iasi,Iasi,Romania
+Laura,Dumitru,Moldova Pharma SA,Director Financiar,laura.dumitru@moldovapharma.example.com,+40 764 558 120,Healthcare,Other,Working - Contacted,Cold,49690000,415,Bucuresti,Bucuresti,Romania
+Marius,Toma,Argo Store SRL,Specialist Achizitii,marius.toma@argostore.example.com,+40 768 326 006,Retail,Web,Open - Not Contacted,Hot,30160000,183,Budapest,Budapest,Hungary
+Razvan,Dumitru,Somes Trade SRL,Director Vanzari,razvan.dumitru@somestrade.example.com,+40 771 846 278,Retail,Web,Open - Not Contacted,Hot,2710000,19,Timisoara,Timis,Romania
+Teodora,Preda,Argo Plast SRL,CTO,teodora.preda@argoplast.example.com,+40 771 955 786,Manufacturing,Partner Referral,Working - Contacted,Hot,690000,14,Craiova,Dolj,Romania
+Teodora,Toma,Alfa Drinks SRL,Manager Achizitii,teodora.toma@alfadrinks.example.com,+40 750 862 013,Food & Beverage,Web,Working - Contacted,Cold,18150000,233,Sibiu,Sibiu,Romania
+Ionut,Popa,Apex Foods SRL,Director Vanzari,ionut.popa@apexfoods.example.com,+40 787 920 443,Food & Beverage,Other,Working - Contacted,Cold,2570000,18,Brasov,Brasov,Romania
+Andreea,Neagu,Dunarea Energy SRL,Director IT,andreea.neagu@dunareaenergy.example.com,+40 749 818 495,Energy,Web,Open - Not Contacted,Warm,20780000,140,Iasi,Iasi,Romania
+Roxana,Constantin,Cerna Data SA,Manager HR,roxana.constantin@cernadata.example.com,+40 795 556 827,Technology,Web,Working - Contacted,Cold,13710000,302,Munchen,Bayern,Germany
+Florin,Avram,Fortis Metal SRL,Manager Marketing,florin.avram@fortismetal.example.com,+40 728 280 286,Manufacturing,Purchased List,Working - Contacted,Cold,45810000,247,Cluj-Napoca,Cluj,Romania
+Florin,Avram,Oltenia Net SRL,Specialist Achizitii,florin.avram@oltenianet.example.com,+40 772 950 736,Telecommunications,Web,Working - Contacted,Cold,80930000,711,Bucuresti,Bucuresti,Romania
+Bogdan,Constantin,Arges Cargo SA,Director Operatiuni,bogdan.constantin@argescargo.example.com,,Transportation,Purchased List,Working - Contacted,Cold,9560000,54,Iasi,Iasi,Romania
+Mihaela,Popescu,Transilvania Prod SRL,Manager Marketing,mihaela.popescu@transilvaniaprod.example.com,+40 783 749 041,Manufacturing,Phone Inquiry,Open - Not Contacted,Hot,1640000,18,Bucuresti,Bucuresti,Romania
+Simona,Marin,Fagaras Logistic SA,Specialist Achizitii,simona.marin@fagaraslogistic.example.com,+40 774 497 984,Transportation,Purchased List,Working - Contacted,Cold,90680000,558,Ploiesti,Prahova,Romania
+Maria,Preda,Apuseni Solar SA,CFO,maria.preda@apusenisolar.example.com,+40 798 645 459,Energy,Phone Inquiry,Open - Not Contacted,Hot,3700000,28,Timisoara,Timis,Romania
+Razvan,Tudor,Atlas Metal SA,CFO,razvan.tudor@atlasmetal.example.com,+40 736 615 264,Manufacturing,Other,Working - Contacted,Cold,2270000,37,Ploiesti,Prahova,Romania
+Adrian,Dumitru,Banat Retail SRL,Specialist Achizitii,adrian.dumitru@banatretail.example.com,+40 792 457 764,Retail,Partner Referral,Closed - Not Converted,Hot,44950000,433,Bucuresti,Bucuresti,Romania
+Stefan,Popa,Apex Digital SRL,Director Operatiuni,stefan.popa@apexdigital.example.com,+40 754 578 897,Technology,Purchased List,Working - Contacted,Cold,14570000,99,Bucuresti,Bucuresti,Romania
+Razvan,Gheorghe,Aurora Health SRL,Director Vanzari,razvan.gheorghe@aurorahealth.example.com,+40 775 686 465,Healthcare,Purchased List,Working - Contacted,Warm,14210000,248,Timisoara,Timis,Romania
+Tudor,Iliescu,Nova Market SA,CEO,tudor.iliescu@novamarket.example.com,,Retail,Other,Working - Contacted,Cold,4620000,36,Cluj-Napoca,Cluj,Romania
+Gabriel,Mocanu,Meridian Store SRL,Manager Proiect,gabriel.mocanu@meridianstore.example.com,+40 766 868 243,Retail,Other,Open - Not Contacted,Warm,9140000,202,Craiova,Dolj,Romania
+Adrian,Constantin,Dobrogea Logistic SRL,Director Financiar,adrian.constantin@dobrogealogistic.example.com,+40 770 569 266,Transportation,Partner Referral,Working - Contacted,Warm,691530000,3916,Oradea,Bihor,Romania
+Roxana,Neagu,Orion Systems SRL,CEO,roxana.neagu@orionsystems.example.com,+40 794 081 923,Technology,Phone Inquiry,Open - Not Contacted,Hot,33310000,243,Ploiesti,Prahova,Romania
+Alexandra,Constantin,Titan Soft SRL,Director Vanzari,alexandra.constantin@titansoft.example.com,+40 791 633 003,Technology,Other,Working - Contacted,Cold,36620000,241,Cluj-Napoca,Cluj,Romania
+Bogdan,Avram,Siret Prod SA,Manager Proiect,bogdan.avram@siretprod.example.com,+40 767 999 252,Manufacturing,Purchased List,Working - Contacted,Cold,1360000,28,Pitesti,Arges,Romania
+Monica,Stoica,Olt Digital SRL,Manager Marketing,monica.stoica@oltdigital.example.com,+40 725 192 153,Technology,Phone Inquiry,Open - Not Contacted,Warm,91380000,740,Sibiu,Sibiu,Romania
+Oana,Neagu,Vector Pharma SA,Manager Marketing,oana.neagu@vectorpharma.example.com,+40 765 203 117,Healthcare,Web,Open - Not Contacted,Hot,71940000,581,Timisoara,Timis,Romania
+Alexandra,Radu,Mondo Plast SRL,CTO,alexandra.radu@mondoplast.example.com,+40 757 810 385,Manufacturing,Purchased List,Working - Contacted,Cold,66810000,478,Cluj-Napoca,Cluj,Romania
+Anca,Dinu,Ceahlau Retail SRL,Specialist Achizitii,anca.dinu@ceahlauretail.example.com,+40 730 171 455,Retail,Web,Working - Contacted,Warm,154350000,786,Bucuresti,Bucuresti,Romania
+Cristian,Popa,Zenit Plast SRL,CFO,cristian.popa@zenitplast.example.com,+40 764 710 858,Manufacturing,Phone Inquiry,Closed - Not Converted,Cold,4970000,49,Oradea,Bihor,Romania
+Bogdan,Mocanu,Somes Systems SRL,Director IT,bogdan.mocanu@somessystems.example.com,+40 736 028 282,,Web,Open - Not Contacted,Cold,35850000,214,Constanta,Constanta,Romania
+Raluca,Preda,Bucegi Data SRL,Manager Achizitii,raluca.preda@bucegidata.example.com,+40 763 298 971,Technology,Web,Working - Contacted,Cold,1620000,14,Pitesti,Arges,Romania
+Raluca,Munteanu,Orion Store SRL,Director Financiar,raluca.munteanu@orionstore.example.com,+40 721 129 335,Retail,Web,Closed - Not Converted,Warm,509980000,4109,Bucuresti,Bucuresti,Romania
+Catalin,Ionescu,Napoca Drinks SA,Specialist Achizitii,catalin.ionescu@napocadrinks.example.com,+40 778 109 239,Food & Beverage,Phone Inquiry,Working - Contacted,Hot,16180000,119,Bucuresti,Bucuresti,Romania
+Mihai,Stan,Solaris Finance SRL,Director Vanzari,mihai.stan@solarisfinance.example.com,+40 766 169 726,Finance,Web,Working - Contacted,Cold,19820000,327,Brasov,Brasov,Romania
+Razvan,Rusu,Nord Link SA,Manager Achizitii,razvan.rusu@nordlink.example.com,+40 766 295 270,Telecommunications,Web,Working - Contacted,Warm,54130000,677,Brasov,Brasov,Romania
+Florin,Barbu,Bistrita Imob SA,Director IT,florin.barbu@bistritaimob.example.com,+40 728 321 352,Construction,Web,Working - Contacted,Hot,11400000,102,Timisoara,Timis,Romania
+Razvan,Barbu,Polaris Trade SA,CEO,razvan.barbu@polaristrade.example.com,+40 789 191 201,Retail,Web,Open - Not Contacted,Warm,26300000,197,Bucuresti,Bucuresti,Romania
+Daniel,Iliescu,Argo Retail SA,Manager Proiect,daniel.iliescu@argoretail.example.com,+40 763 722 374,Retail,Phone Inquiry,Working - Contacted,Cold,23390000,161,Timisoara,Timis,Romania
+Catalin,Nistor,Carpat Prod SRL,Director Vanzari,catalin.nistor@carpatprod.example.com,+40 726 256 308,Manufacturing,Phone Inquiry,Working - Contacted,Hot,17280000,144,Pitesti,Arges,Romania
+Cristina,Radu,Sud Logistic SRL,CFO,cristina.radu@sudlogistic.example.com,+40 758 123 674,Transportation,Partner Referral,Working - Contacted,Warm,1480000,17,Cluj-Napoca,Cluj,Romania
+Simona,Dumitru,Olt Plast SA,Manager HR,simona.dumitru@oltplast.example.com,+40 753 814 162,Manufacturing,Phone Inquiry,Working - Contacted,Warm,9130000,48,Constanta,Constanta,Romania
+Andrei,Stoica,Fagaras Soft SA,Manager Marketing,andrei.stoica@fagarassoft.example.com,+40 724 205 533,Technology,Web,Working - Contacted,Cold,22710000,160,Galati,Galati,Romania
+Cristian,Avram,Moldova Soft SRL,CTO,cristian.avram@moldovasoft.example.com,+40 768 901 359,Technology,Phone Inquiry,Open - Not Contacted,Hot,3440000,44,Constanta,Constanta,Romania
+Camelia,Dinu,Zenit Systems SRL,Director IT,camelia.dinu@zenitsystems.example.com,+40 738 429 215,Technology,Web,Open - Not Contacted,Cold,25590000,140,Cluj-Napoca,Cluj,Romania
+Bogdan,Iliescu,Lumina Academy SRL,CTO,bogdan.iliescu@luminaacademy.example.com,+40 773 618 810,Education,Web,Working - Contacted,Hot,84240000,707,Constanta,Constanta,Romania
+Florin,Radu,Olt Capital SA,Specialist Achizitii,florin.radu@oltcapital.example.com,+40 795 953 448,Finance,Web,Closed - Not Converted,Warm,2140000,51,Brasov,Brasov,Romania
+Stefan,Serban,Nera Plast SA,Manager Marketing,stefan.serban@neraplast.example.com,+40 746 357 057,Manufacturing,Purchased List,Closed - Not Converted,Warm,1260000,27,Brasov,Brasov,Romania
+Andrei,Gheorghe,Prisma Store SA,Director Vanzari,andrei.gheorghe@prismastore.example.com,+40 733 891 396,Retail,Web,Open - Not Contacted,Warm,5480000,38,Oradea,Bihor,Romania
+Camelia,Lazar,Titan Store SA,Director Operatiuni,camelia.lazar@titanstore.example.com,+40 752 683 912,Retail,Web,Open - Not Contacted,Cold,244120000,2704,Cluj-Napoca,Cluj,Romania
+Simona,Vasile,Orion Credit SRL,Director Operatiuni,simona.vasile@orioncredit.example.com,+40 731 378 782,Finance,Purchased List,Working - Contacted,Cold,1290000,10,Pitesti,Arges,Romania
+Tudor,Serban,Delta Prod SRL,CTO,tudor.serban@deltaprod.example.com,+40 786 386 247,Manufacturing,Phone Inquiry,Working - Contacted,Cold,67850000,426,Craiova,Dolj,Romania
+Florin,Matei,Maramures Link SA,CTO,florin.matei@maramureslink.example.com,+40 797 357 547,Telecommunications,Partner Referral,Open - Not Contacted,Hot,26010000,148,Sibiu,Sibiu,Romania
+Larisa,Preda,Solaris Link SRL,Director Operatiuni,larisa.preda@solarislink.example.com,+40 735 105 041,Telecommunications,Partner Referral,Working - Contacted,Warm,8230000,45,Timisoara,Timis,Romania
+Carmen,Tudor,Arges Industries SRL,Director IT,carmen.tudor@argesindustries.example.com,+40 743 452 836,Manufacturing,Purchased List,Open - Not Contacted,Warm,136400000,914,Bucuresti,Bucuresti,Romania
+Laura,Mocanu,Carpat Finance SA,Manager Proiect,laura.mocanu@carpatfinance.example.com,+40 766 631 180,Finance,Purchased List,Working - Contacted,Cold,2150000,15,Constanta,Constanta,Romania
+Adrian,Moldovan,Sud Trans SA,Manager Marketing,adrian.moldovan@sudtrans.example.com,+40 742 094 104,Transportation,Partner Referral,Working - Contacted,Cold,14140000,158,Constanta,Constanta,Romania
+Andreea,Serban,Ceahlau Soft SRL,Specialist Achizitii,andreea.serban@ceahlausoft.example.com,,Technology,Web,Open - Not Contacted,Cold,8450000,211,Oradea,Bihor,Romania
+Radu,Avram,Helios Credit SA,CFO,radu.avram@helioscredit.example.com,+40 792 286 238,Finance,Partner Referral,Working - Contacted,Hot,21130000,212,Cluj-Napoca,Cluj,Romania
+Stefan,Matei,Siret Health SRL,,stefan.matei@sirethealth.example.com,+40 720 956 485,Healthcare,Partner Referral,Open - Not Contacted,Cold,44920000,684,Bucuresti,Bucuresti,Romania
+Stefan,Dumitru,Olt Cloud SRL,Manager HR,stefan.dumitru@oltcloud.example.com,+40 752 556 317,Technology,Phone Inquiry,Open - Not Contacted,Cold,1290000,17,Craiova,Dolj,Romania
+Monica,Marin,Cerna Data SRL,Manager HR,monica.marin@cernadata.example.com,+40 792 264 327,Technology,Web,Open - Not Contacted,Cold,19690000,252,Cluj-Napoca,Cluj,Romania
+Oana,Popa,Napoca Capital SRL,Specialist Achizitii,oana.popa@napocacapital.example.com,,Finance,Partner Referral,Working - Contacted,Warm,95350000,731,Galati,Galati,Romania
+Andreea,Oprea,Orion Finance SA,Director IT,andreea.oprea@orionfinance.example.com,+40 780 599 939,Finance,Phone Inquiry,Open - Not Contacted,Hot,87230000,737,Cluj-Napoca,Cluj,Romania
+Alexandru,Constantin,Nova Store SRL,Director Vanzari,alexandru.constantin@novastore.example.com,+40 794 386 078,Retail,Web,Working - Contacted,Cold,27700000,312,Timisoara,Timis,Romania
+Radu,Dumitru,Siret Plast SRL,CFO,radu.dumitru@siretplast.example.com,+40 770 851 143,Manufacturing,Web,Working - Contacted,Cold,25630000,218,Cluj-Napoca,Cluj,Romania
+Tudor,Gheorghe,Oltenia Digital SA,Specialist Achizitii,tudor.gheorghe@olteniadigital.example.com,+40 795 307 681,Technology,Purchased List,Working - Contacted,Cold,25370000,141,Milano,Lombardia,Italy
+Adrian,Preda,Orion Solar SRL,,adrian.preda@orionsolar.example.com,+40 753 621 713,Energy,Other,Working - Contacted,Warm,15700000,159,Milano,Lombardia,Italy
+Roxana,Dinu,Argo Solar SRL,Director Financiar,roxana.dinu@argosolar.example.com,+40 789 583 544,,Partner Referral,Working - Contacted,Warm,6830000,124,Bucuresti,Bucuresti,Romania
+Teodora,Mocanu,Arges Solar SRL,CEO,teodora.mocanu@argessolar.example.com,+40 749 793 837,,Purchased List,Working - Contacted,Cold,8900000,90,Bucuresti,Bucuresti,Romania
+Laura,Radu,Apuseni Store SRL,Director Financiar,laura.radu@apusenistore.example.com,+40 737 382 319,,Purchased List,Working - Contacted,Hot,8260000,44,Budapest,Budapest,Hungary
+Roxana,Cojocaru,Apex Systems SA,Manager Marketing,roxana.cojocaru@apexsystems.example.com,+40 776 683 297,Technology,Partner Referral,Open - Not Contacted,Hot,80750000,926,Brasov,Brasov,Romania
+Laura,Oprea,Argo Systems SRL,,laura.oprea@argosystems.example.com,+40 771 711 126,Technology,Partner Referral,Closed - Not Converted,Warm,12760000,116,Bucuresti,Bucuresti,Romania
+Sorin,Stan,Mures Soft SA,CTO,sorin.stan@muressoft.example.com,,Technology,Phone Inquiry,Open - Not Contacted,Hot,5430000,44,Bucuresti,Bucuresti,Romania
+Oana,Mocanu,Dobrogea Digital SRL,Manager Proiect,oana.mocanu@dobrogeadigital.example.com,+40 744 010 972,Technology,Web,Working - Contacted,Cold,6420000,47,Munchen,Bayern,Germany
+Lucian,Barbu,Retezat Data SRL,Manager HR,lucian.barbu@retezatdata.example.com,+40 797 349 710,Technology,Web,Working - Contacted,Warm,70910000,760,Milano,Lombardia,Italy
+Roxana,Dinu,Prisma Systems SRL,CFO,roxana.dinu@prismasystems.example.com,+40 773 140 605,Technology,Phone Inquiry,Working - Contacted,Warm,12000000,220,Cluj-Napoca,Cluj,Romania
+Vlad,Rusu,Vector Systems SRL,Specialist Achizitii,vlad.rusu@vectorsystems.example.com,+40 768 324 996,Technology,Phone Inquiry,Working - Contacted,Warm,8500000,67,Galati,Galati,Romania
+Catalin,Barbu,Napoca Agro SA,Director IT,catalin.barbu@napocaagro.example.com,+40 740 634 453,Food & Beverage,Web,Working - Contacted,Warm,121960000,1275,Bucuresti,Bucuresti,Romania
+Elena,Gheorghe,Terra Invest SA,CFO,elena.gheorghe@terrainvest.example.com,+40 740 113 399,Finance,Partner Referral,Open - Not Contacted,Warm,7530000,70,Ploiesti,Prahova,Romania
+Vlad,Moldovan,Nova Invest SA,Specialist Achizitii,vlad.moldovan@novainvest.example.com,+40 750 351 209,Finance,Other,Working - Contacted,Warm,750000,11,Bucuresti,Bucuresti,Romania
+Simona,Popescu,Optim Soft SA,CEO,simona.popescu@optimsoft.example.com,+40 754 338 513,Technology,Partner Referral,Open - Not Contacted,Cold,311560000,4072,Cluj-Napoca,Cluj,Romania
+Carmen,Ionescu,Apuseni Telecom SRL,Director Vanzari,carmen.ionescu@apusenitelecom.example.com,+40 733 345 687,Telecommunications,Phone Inquiry,Open - Not Contacted,Warm,4920000,49,Bucuresti,Bucuresti,Romania
+Andreea,Neagu,Vector Clinic SRL,Manager Achizitii,andreea.neagu@vectorclinic.example.com,+40 755 852 724,Healthcare,Web,Open - Not Contacted,Warm,18960000,163,Cluj-Napoca,Cluj,Romania
+Razvan,Munteanu,Napoca Capital SA,CTO,razvan.munteanu@napocacapital.example.com,+40 754 946 423,Finance,Phone Inquiry,Closed - Not Converted,Warm,2360000,22,Iasi,Iasi,Romania
+Diana,Serban,Apex Store SA,Manager Marketing,diana.serban@apexstore.example.com,+40 733 311 941,Retail,Phone Inquiry,Working - Contacted,Cold,2740000,32,Bucuresti,Bucuresti,Romania
+Marius,Cojocaru,Fortis Power SA,CTO,marius.cojocaru@fortispower.example.com,+40 724 626 854,Energy,Web,Working - Contacted,Cold,7010000,45,Cluj-Napoca,Cluj,Romania
+Bogdan,Nistor,Vector Credit SA,Director Financiar,bogdan.nistor@vectorcredit.example.com,+40 722 417 975,Finance,Purchased List,Open - Not Contacted,Warm,12950000,179,Milano,Lombardia,Italy
+Larisa,Serban,Ceahlau Learning SRL,,larisa.serban@ceahlaulearning.example.com,+40 736 417 164,Education,Web,Working - Contacted,Cold,11790000,92,Bucuresti,Bucuresti,Romania
+Oana,Munteanu,Fortis Energy SRL,Specialist Achizitii,oana.munteanu@fortisenergy.example.com,+40 760 039 072,Energy,Web,Working - Contacted,Warm,2240000,14,Constanta,Constanta,Romania
+Georgiana,Serban,Mondo Capital SRL,CFO,georgiana.serban@mondocapital.example.com,+40 751 009 171,Finance,Purchased List,Closed - Not Converted,Cold,7540000,163,Timisoara,Timis,Romania
+Ionut,Toma,Crisana Trade SA,Director IT,ionut.toma@crisanatrade.example.com,+40 724 324 126,Retail,Partner Referral,Closed - Not Converted,Hot,6940000,156,Bucuresti,Bucuresti,Romania
+Andreea,Ionescu,Nera Industries SA,Director Operatiuni,andreea.ionescu@neraindustries.example.com,+40 789 709 705,Manufacturing,Phone Inquiry,Working - Contacted,Hot,7830000,40,Oradea,Bihor,Romania
+Simona,Popescu,Solaris Prod SA,Manager Marketing,simona.popescu@solarisprod.example.com,+40 781 563 904,Manufacturing,Phone Inquiry,Open - Not Contacted,Warm,23100000,160,Galati,Galati,Romania
+Andreea,Gheorghe,Mures Gaz SRL,Director Financiar,andreea.gheorghe@muresgaz.example.com,+40 735 499 709,Energy,Web,Closed - Not Converted,Warm,24460000,182,Bucuresti,Bucuresti,Romania
+Catalin,Neagu,Napoca Retail SRL,Director Financiar,catalin.neagu@napocaretail.example.com,+40 754 603 097,Retail,Partner Referral,Open - Not Contacted,Warm,1920000,14,Oradea,Bihor,Romania
+Catalin,Dumitru,Orion Gaz SRL,Manager HR,catalin.dumitru@oriongaz.example.com,+40 781 375 155,Energy,Phone Inquiry,Closed - Not Converted,Cold,4770000,113,Bucuresti,Bucuresti,Romania
+Diana,Mocanu,Mondo Digital SRL,CEO,diana.mocanu@mondodigital.example.com,+40 771 242 434,Technology,Phone Inquiry,Working - Contacted,Warm,2580000,28,Iasi,Iasi,Romania
+Gabriel,Ionescu,Dobrogea Store SRL,Director Operatiuni,gabriel.ionescu@dobrogeastore.example.com,,Retail,Phone Inquiry,Open - Not Contacted,Warm,14010000,72,Ploiesti,Prahova,Romania
+Larisa,Ene,Lumina Market SRL,CFO,larisa.ene@luminamarket.example.com,,Retail,Web,Open - Not Contacted,Warm,7470000,48,Bucuresti,Bucuresti,Romania
+Laura,Toma,Optim Data SA,Director Vanzari,laura.toma@optimdata.example.com,+40 738 819 588,Technology,Web,Working - Contacted,Cold,3290000,37,Bucuresti,Bucuresti,Romania
+Raluca,Tudor,Dunarea Plast SA,Director Operatiuni,raluca.tudor@dunareaplast.example.com,+40 739 805 708,Manufacturing,Web,Open - Not Contacted,Warm,10160000,150,Craiova,Dolj,Romania
+Andreea,Ionescu,Arges Cloud SRL,Manager Achizitii,andreea.ionescu@argescloud.example.com,+40 791 543 251,Technology,Purchased List,Open - Not Contacted,Cold,34360000,200,Ploiesti,Prahova,Romania
+Larisa,Moldovan,Retezat Metal SA,Specialist Achizitii,larisa.moldovan@retezatmetal.example.com,+40 731 501 441,Manufacturing,Phone Inquiry,Open - Not Contacted,Cold,13420000,218,Cluj-Napoca,Cluj,Romania
+Laura,Nistor,Zenit Store SA,Manager HR,laura.nistor@zenitstore.example.com,+40 794 523 355,Retail,Web,Closed - Not Converted,Warm,2910000,29,Bucuresti,Bucuresti,Romania
+Bogdan,Iliescu,Oltenia Health SRL,CEO,bogdan.iliescu@olteniahealth.example.com,+40 751 661 273,Healthcare,Phone Inquiry,Working - Contacted,Cold,5220000,85,Sibiu,Sibiu,Romania
+Adrian,Popa,Sud Imob SRL,Manager Marketing,adrian.popa@sudimob.example.com,+40 778 460 315,Construction,Partner Referral,Working - Contacted,Warm,152990000,861,Cluj-Napoca,Cluj,Romania
+Vlad,Stan,Orion Solar SA,,vlad.stan@orionsolar.example.com,,Energy,Web,Open - Not Contacted,Warm,252680000,1989,Constanta,Constanta,Romania
+Cristina,Gheorghe,Dunarea Metal SRL,Director Operatiuni,cristina.gheorghe@dunareametal.example.com,+40 777 117 988,Manufacturing,Web,Working - Contacted,Warm,52710000,365,Cluj-Napoca,Cluj,Romania
+Stefan,Rusu,Apuseni Data SRL,CFO,stefan.rusu@apusenidata.example.com,+40 733 997 218,Technology,Purchased List,Working - Contacted,Warm,1880000,24,Galati,Galati,Romania
+Simona,Marin,Optim Academy SA,CFO,simona.marin@optimacademy.example.com,+40 737 297 020,Education,Web,Open - Not Contacted,Hot,39850000,929,Galati,Galati,Romania
+Florin,Ionescu,Optim Med SRL,Manager Proiect,florin.ionescu@optimmed.example.com,+40 732 061 812,Healthcare,Partner Referral,Open - Not Contacted,Hot,33930000,237,Iasi,Iasi,Romania
+Mihai,Stan,Arges Retail SA,Manager HR,mihai.stan@argesretail.example.com,+40 731 402 237,Retail,Partner Referral,Closed - Not Converted,Hot,2480000,19,Cluj-Napoca,Cluj,Romania
+Alexandru,Stoica,Moldova Market SRL,Director Vanzari,alexandru.stoica@moldovamarket.example.com,+40 756 597 423,Retail,Web,Working - Contacted,Warm,174260000,904,Bucuresti,Bucuresti,Romania
+Adrian,Popescu,Nord Metal SA,Manager Marketing,adrian.popescu@nordmetal.example.com,+40 777 213 992,Manufacturing,Web,Closed - Not Converted,Warm,31740000,181,Timisoara,Timis,Romania
+Vlad,Preda,Banat Industries SRL,CFO,vlad.preda@banatindustries.example.com,+40 758 697 686,Manufacturing,Web,Open - Not Contacted,Cold,32950000,200,Timisoara,Timis,Romania
+Raluca,Marin,Solaris Retail SA,CTO,raluca.marin@solarisretail.example.com,+40 760 336 151,Retail,Purchased List,Closed - Not Converted,Cold,81600000,666,Munchen,Bayern,Germany
+Lucian,Lazar,Zenit Data SA,CEO,lucian.lazar@zenitdata.example.com,+40 757 260 858,Technology,Web,Working - Contacted,Hot,3740000,37,Bucuresti,Bucuresti,Romania
+Gabriel,Popa,Jiu Cloud SRL,Manager Proiect,gabriel.popa@jiucloud.example.com,+40 742 102 124,Technology,Phone Inquiry,Closed - Not Converted,Warm,72510000,947,Sibiu,Sibiu,Romania
+Anca,Popescu,Delta Health SRL,Director Financiar,anca.popescu@deltahealth.example.com,+40 741 076 754,Healthcare,Web,Open - Not Contacted,Warm,1860000,30,Iasi,Iasi,Romania
+Marius,Popescu,Dacia Plast SA,Manager Proiect,marius.popescu@daciaplast.example.com,+40 794 503 266,Manufacturing,Web,Working - Contacted,Cold,4100000,39,Oradea,Bihor,Romania
+Dragos,Stan,Vector Credit SRL,Director Financiar,dragos.stan@vectorcredit.example.com,+40 726 085 281,Finance,Web,Open - Not Contacted,Cold,1020000,18,Timisoara,Timis,Romania
+Lucian,Popescu,Fagaras Systems SA,Manager Achizitii,lucian.popescu@fagarassystems.example.com,+40 794 634 383,Technology,Phone Inquiry,Open - Not Contacted,Warm,97200000,814,Ploiesti,Prahova,Romania
+Lucian,Nistor,Dunarea Digital SRL,,lucian.nistor@dunareadigital.example.com,+40 762 726 685,Technology,Other,Open - Not Contacted,Cold,741730000,4546,Cluj-Napoca,Cluj,Romania
+Maria,Oprea,Meridian Soft SRL,CFO,maria.oprea@meridiansoft.example.com,+40 746 676 947,Technology,Phone Inquiry,Working - Contacted,Hot,106800000,734,Ploiesti,Prahova,Romania
+Camelia,Popescu,Carpat Build SA,CTO,camelia.popescu@carpatbuild.example.com,+40 780 243 742,Construction,Web,Open - Not Contacted,Hot,22000000,175,Bucuresti,Bucuresti,Romania
+Simona,Rusu,Ceahlau Drinks SRL,Manager Proiect,simona.rusu@ceahlaudrinks.example.com,+40 742 801 266,Food & Beverage,Web,Open - Not Contacted,Warm,7100000,46,Oradea,Bihor,Romania
+Radu,Preda,Prisma Gaz SA,Director IT,radu.preda@prismagaz.example.com,,Energy,Web,Open - Not Contacted,Cold,2810000,27,Cluj-Napoca,Cluj,Romania
+Maria,Matei,Apuseni Store SA,Director Operatiuni,maria.matei@apusenistore.example.com,+40 771 420 085,Retail,Partner Referral,Working - Contacted,Cold,47890000,926,Cluj-Napoca,Cluj,Romania
+Bogdan,Radu,Helios Drinks SA,Director Financiar,bogdan.radu@heliosdrinks.example.com,+40 775 759 247,Food & Beverage,Purchased List,Working - Contacted,Cold,2120000,27,Munchen,Bayern,Germany
+Ioana,Radu,Polaris Data SRL,Specialist Achizitii,ioana.radu@polarisdata.example.com,+40 762 729 336,,Web,Open - Not Contacted,Hot,762670000,4220,Cluj-Napoca,Cluj,Romania
+Camelia,Popa,Nera Solar SRL,CEO,camelia.popa@nerasolar.example.com,+40 724 755 674,Energy,Web,Working - Contacted,Cold,7160000,71,Iasi,Iasi,Romania
+Gabriel,Stan,Aurora Digital SA,Specialist Achizitii,gabriel.stan@auroradigital.example.com,+40 785 352 014,Technology,Web,Working - Contacted,Hot,80490000,637,Cluj-Napoca,Cluj,Romania
+Diana,Ene,Dacia Gaz SRL,Director IT,diana.ene@daciagaz.example.com,+40 796 359 172,Energy,Partner Referral,Closed - Not Converted,Hot,3190000,33,Cluj-Napoca,Cluj,Romania
+Elena,Rusu,Banat Digital SRL,CEO,elena.rusu@banatdigital.example.com,+40 763 411 825,Technology,Web,Open - Not Contacted,Warm,26520000,153,Bucuresti,Bucuresti,Romania
+Teodora,Toma,Dacia Construct SA,CFO,teodora.toma@daciaconstruct.example.com,+40 799 079 384,Construction,Phone Inquiry,Closed - Not Converted,Hot,11660000,78,Constanta,Constanta,Romania
+Dragos,Rusu,Aurora Energy SRL,CTO,dragos.rusu@auroraenergy.example.com,+40 771 658 285,Energy,Web,Closed - Not Converted,Cold,10890000,79,Oradea,Bihor,Romania
+Mihai,Neagu,Helios Med SA,Director Financiar,mihai.neagu@heliosmed.example.com,+40 734 580 685,Healthcare,Web,Working - Contacted,Warm,421010000,2854,Bucuresti,Bucuresti,Romania
+Gabriel,Avram,Mondo Med SA,Specialist Achizitii,gabriel.avram@mondomed.example.com,+40 762 842 377,Healthcare,Other,Working - Contacted,Warm,63200000,359,Timisoara,Timis,Romania
+Ioana,Stoica,Prisma Capital SA,Specialist Achizitii,ioana.stoica@prismacapital.example.com,+40 776 380 037,,Phone Inquiry,Closed - Not Converted,Hot,20770000,426,Constanta,Constanta,Romania
+Cristian,Ionescu,Cerna Gaz SA,CFO,cristian.ionescu@cernagaz.example.com,+40 738 622 071,Energy,Phone Inquiry,Working - Contacted,Warm,154380000,776,Timisoara,Timis,Romania
+Teodora,Avram,Delta Clinic SA,CEO,teodora.avram@deltaclinic.example.com,+40 736 195 373,Healthcare,Web,Open - Not Contacted,Cold,151240000,1248,Budapest,Budapest,Hungary
+Teodora,Rusu,Carpat Link SRL,Director Vanzari,teodora.rusu@carpatlink.example.com,+40 743 963 679,Telecommunications,Phone Inquiry,Open - Not Contacted,Cold,271120000,1811,Cluj-Napoca,Cluj,Romania
+Bogdan,Mocanu,Polaris Systems SA,CTO,bogdan.mocanu@polarissystems.example.com,+40 785 599 275,Technology,Phone Inquiry,Open - Not Contacted,Warm,10330000,110,Constanta,Constanta,Romania
+Radu,Mocanu,Mures Telecom SRL,CFO,radu.mocanu@murestelecom.example.com,+40 785 165 644,Telecommunications,Web,Working - Contacted,Cold,434280000,4696,Iasi,Iasi,Romania
+Mihaela,Matei,Titan Drinks SA,Director Financiar,mihaela.matei@titandrinks.example.com,+40 799 356 515,Food & Beverage,Web,Working - Contacted,Warm,44540000,240,Galati,Galati,Romania
+Dragos,Barbu,Somes Data SA,CTO,dragos.barbu@somesdata.example.com,+40 720 162 292,Technology,Web,Open - Not Contacted,Hot,39190000,580,Bucuresti,Bucuresti,Romania
+Alexandra,Gheorghe,Mondo Store SRL,CTO,alexandra.gheorghe@mondostore.example.com,+40 720 606 648,Retail,Other,Closed - Not Converted,Warm,36570000,637,Sibiu,Sibiu,Romania
+Catalin,Cojocaru,Dacia Credit SRL,,catalin.cojocaru@daciacredit.example.com,,Finance,Partner Referral,Closed - Not Converted,Cold,65730000,660,Bucuresti,Bucuresti,Romania
+Alexandra,Matei,Napoca Power SRL,CTO,alexandra.matei@napocapower.example.com,+40 772 380 518,Energy,Purchased List,Closed - Not Converted,Warm,48560000,369,Ploiesti,Prahova,Romania
+Carmen,Marin,Cerna Gaz SRL,CTO,carmen.marin@cernagaz.example.com,+40 741 651 120,Energy,Web,Working - Contacted,Warm,2460000,27,Sibiu,Sibiu,Romania
+Georgiana,Stan,Mures Digital SRL,Manager Marketing,georgiana.stan@muresdigital.example.com,+40 746 841 527,Technology,Partner Referral,Closed - Not Converted,Warm,2560000,56,Brasov,Brasov,Romania
+Cristian,Barbu,Polaris Med SRL,Director IT,cristian.barbu@polarismed.example.com,+40 734 851 602,Healthcare,Partner Referral,Working - Contacted,Hot,2290000,28,Bucuresti,Bucuresti,Romania
+Dragos,Mocanu,Napoca Agro SRL,Manager Proiect,dragos.mocanu@napocaagro.example.com,+40 725 263 790,Food & Beverage,Partner Referral,Closed - Not Converted,Hot,2270000,20,Milano,Lombardia,Italy
+Razvan,Ene,Somes Health SRL,Manager HR,razvan.ene@someshealth.example.com,+40 770 307 726,Healthcare,Phone Inquiry,Open - Not Contacted,Hot,28390000,231,Sibiu,Sibiu,Romania
+Cristina,Avram,Meridian Market SA,CFO,cristina.avram@meridianmarket.example.com,+40 726 071 004,Retail,Phone Inquiry,Open - Not Contacted,Warm,53220000,791,Constanta,Constanta,Romania
+Alexandra,Toma,Nova Construct SRL,Specialist Achizitii,alexandra.toma@novaconstruct.example.com,+40 747 639 690,Construction,Web,Closed - Not Converted,Warm,13870000,72,Budapest,Budapest,Hungary
+Adrian,Dinu,Bucegi Systems SA,Director Vanzari,adrian.dinu@bucegisystems.example.com,,Technology,Partner Referral,Closed - Not Converted,Hot,15480000,94,Constanta,Constanta,Romania
+Carmen,Dumitru,Sud Invest SA,CFO,carmen.dumitru@sudinvest.example.com,+40 741 879 397,Finance,Web,Open - Not Contacted,Warm,29490000,504,Bucuresti,Bucuresti,Romania
+Cristian,Popescu,Dunarea Retail SA,,cristian.popescu@dunarearetail.example.com,+40 746 003 230,Retail,Partner Referral,Working - Contacted,Hot,880000,14,Bucuresti,Bucuresti,Romania
+Vlad,Ene,Orion Store SA,CEO,vlad.ene@orionstore.example.com,+40 798 092 554,,Partner Referral,Open - Not Contacted,Warm,32500000,397,Budapest,Budapest,Hungary
+Teodora,Toma,Apex Pharma SRL,Manager Achizitii,teodora.toma@apexpharma.example.com,+40 796 848 388,Healthcare,Partner Referral,Open - Not Contacted,Hot,1390000,14,Timisoara,Timis,Romania
+Laura,Barbu,Vector Prod SRL,Specialist Achizitii,laura.barbu@vectorprod.example.com,+40 760 296 128,Manufacturing,Purchased List,Working - Contacted,Warm,10800000,84,Bucuresti,Bucuresti,Romania
+Stefan,Dinu,Vertex Finance SA,Manager Proiect,stefan.dinu@vertexfinance.example.com,+40 780 242 552,Finance,Purchased List,Closed - Not Converted,Warm,5120000,109,Budapest,Budapest,Hungary
+Daniel,Popa,Mures Imob SRL,,daniel.popa@muresimob.example.com,+40 735 784 823,Construction,Partner Referral,Closed - Not Converted,Hot,1340000,17,Bucuresti,Bucuresti,Romania
+Diana,Gheorghe,Dobrogea Trans SA,Specialist Achizitii,diana.gheorghe@dobrogeatrans.example.com,+40 734 028 062,Transportation,Web,Open - Not Contacted,Warm,7070000,118,Brasov,Brasov,Romania
+Dragos,Cojocaru,Optim Capital SRL,Manager Proiect,dragos.cojocaru@optimcapital.example.com,+40 733 407 785,Finance,Purchased List,Working - Contacted,Cold,46950000,849,Bucuresti,Bucuresti,Romania
+Camelia,Matei,Banat Foods SRL,Director Vanzari,camelia.matei@banatfoods.example.com,+40 755 604 442,Food & Beverage,Partner Referral,Working - Contacted,Cold,1600000,18,Cluj-Napoca,Cluj,Romania
+Vlad,Ionescu,Lumina Med SRL,Manager Proiect,vlad.ionescu@luminamed.example.com,+40 781 094 086,Healthcare,Web,Closed - Not Converted,Warm,6850000,39,Brasov,Brasov,Romania
+Georgiana,Tudor,Olt Data SRL,Director Operatiuni,georgiana.tudor@oltdata.example.com,+40 735 868 395,Technology,Phone Inquiry,Working - Contacted,Cold,7430000,146,Constanta,Constanta,Romania
+Daniel,Neagu,Apuseni Pharma SA,CFO,daniel.neagu@apusenipharma.example.com,+40 743 946 146,Healthcare,Purchased List,Open - Not Contacted,Cold,1850000,34,Oradea,Bihor,Romania
+Alexandru,Oprea,Prut Finance SRL,Director Operatiuni,alexandru.oprea@prutfinance.example.com,+40 776 050 945,Finance,Web,Open - Not Contacted,Hot,6060000,42,Craiova,Dolj,Romania
+Andreea,Avram,Cerna Store SRL,CTO,andreea.avram@cernastore.example.com,+40 757 568 920,Retail,Web,Open - Not Contacted,Cold,8090000,45,Ploiesti,Prahova,Romania
+Laura,Marin,Aurora Data SRL,Specialist Achizitii,laura.marin@auroradata.example.com,+40 742 141 104,Technology,Other,Open - Not Contacted,Hot,5200000,99,Cluj-Napoca,Cluj,Romania
+Teodora,Popescu,Sud Market SRL,Manager HR,teodora.popescu@sudmarket.example.com,+40 789 119 686,Retail,Partner Referral,Working - Contacted,Warm,9760000,65,Bucuresti,Bucuresti,Romania
+Alexandru,Marin,Orion Link SRL,Manager Proiect,alexandru.marin@orionlink.example.com,+40 787 298 649,Telecommunications,Web,Working - Contacted,Hot,770000,14,Constanta,Constanta,Romania
+Dragos,Ionescu,Alfa Metal SRL,CTO,dragos.ionescu@alfametal.example.com,+40 781 614 929,Manufacturing,Partner Referral,Working - Contacted,Warm,461640000,4633,Budapest,Budapest,Hungary
+Oana,Vasile,Napoca Foods SRL,CEO,oana.vasile@napocafoods.example.com,+40 731 234 911,Food & Beverage,Web,Working - Contacted,Cold,64540000,676,Iasi,Iasi,Romania
+Sorin,Cojocaru,Napoca Trans SRL,Director IT,sorin.cojocaru@napocatrans.example.com,+40 781 637 569,Transportation,Web,Open - Not Contacted,Cold,13300000,218,Sibiu,Sibiu,Romania
+Gabriel,Stan,Optim Market SRL,Manager Proiect,gabriel.stan@optimmarket.example.com,+40 773 024 936,Retail,Other,Working - Contacted,Warm,120680000,825,Munchen,Bayern,Germany
+Laura,Stoica,Moldova Clinic SA,Specialist Achizitii,laura.stoica@moldovaclinic.example.com,+40 731 449 064,,Web,Working - Contacted,Warm,3320000,33,Constanta,Constanta,Romania
+Radu,Serban,Alfa Market SRL,Director Vanzari,radu.serban@alfamarket.example.com,,Retail,Web,Open - Not Contacted,Cold,24440000,175,Oradea,Bihor,Romania
+Razvan,Munteanu,Atlas Foods SRL,CEO,razvan.munteanu@atlasfoods.example.com,+40 791 204 019,Food & Beverage,Web,Open - Not Contacted,Warm,9390000,169,Sibiu,Sibiu,Romania
+Vlad,Toma,Helios Prod SA,,vlad.toma@heliosprod.example.com,+40 750 610 038,Manufacturing,Phone Inquiry,Closed - Not Converted,Warm,678780000,4016,Cluj-Napoca,Cluj,Romania
